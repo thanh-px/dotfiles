@@ -1,0 +1,2707 @@
+Apr 13 21:01 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 21:01 : exception: Failed to open '/home/thanh/.mpd/mpdstate': No such file or directory
+Apr 13 21:02 : client: [0] opened from 127.0.0.1:55214
+Apr 13 21:02 : client: [0] closed
+Apr 13 21:14 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 13 21:14 : client: [0] opened from 127.0.0.1:40574
+Apr 13 21:14 : client: [0] closed
+Apr 14 20:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 20:28 : client: [0] opened from 127.0.0.1:34682
+Apr 14 20:28 : client: [1] opened from 127.0.0.1:34684
+Apr 14 20:28 : client: [2] opened from 127.0.0.1:34686
+Apr 14 20:28 : client: [3] opened from 127.0.0.1:34688
+Apr 14 20:28 : client: [4] opened from 127.0.0.1:34692
+Apr 14 20:28 : client: [4] closed
+Apr 14 20:32 : client: [5] opened from 127.0.0.1:35048
+Apr 14 20:32 : update: added /La La Latch - Pentatonix.mp3
+Apr 14 20:32 : client: [5] closed
+Apr 14 22:15 : client: [6] opened from 127.0.0.1:37194
+Apr 14 22:15 : update: added /前前前世 - RADWIMPS.mp3
+Apr 14 22:15 : update: added /Do You Wanna Do Nothing With Me - Lawrence.mp3
+Apr 14 22:15 : update: added /Cho Tôi Đi Theo - Ngọt.mp3
+Apr 14 22:15 : update: added /Officially Missing You - Jayesslee.mp3
+Apr 14 22:15 : update: added /Attention - Pentatonix.mp3
+Apr 14 22:15 : update: added /瞬き - back number.mp3
+Apr 14 22:15 : update: added /Lần cuối - Ngọt.mp3
+Apr 14 22:15 : update: added /Shelter - Porter Robinson & Madeon.mp3
+Apr 14 22:15 : update: added /Problem - Pentatonix.mp3
+Apr 14 22:15 : update: added /Spectrum - Zedd.mp3
+Apr 14 22:15 : update: added /Lemon - 米津玄師.mp3
+Apr 14 22:15 : update: added /A Higher Place - Adam Levine.mp3
+Apr 14 22:15 : update: added /Rather Be - Clean Bandit.mp3
+Apr 14 22:15 : update: added /Hết thời - Ngọt.mp3
+Apr 14 22:15 : update: added /Sing - Pentatonix.mp3
+Apr 14 22:15 : update: added /Hanabi - DAOKO × 米津玄師.mp3
+Apr 14 22:15 : update: added /No One Else Like You - Adam Levine.mp3
+Apr 14 22:15 : update: added /Can't Hold Us - Pentatonix.mp3
+Apr 14 22:15 : update: added /Kataomoi - Aimer.mp3
+Apr 14 22:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:15 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:15 : client: [7] opened from 127.0.0.1:37200
+Apr 14 22:15 : client: [7] closed
+Apr 14 22:15 : client: [8] opened from 127.0.0.1:37202
+Apr 14 22:15 : client: [8] closed
+Apr 14 22:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:15 : client: [9] opened from 127.0.0.1:37204
+Apr 14 22:15 : player: played "Hết thời - Ngọt.mp3"
+Apr 14 22:15 : client: [9] closed
+Apr 14 22:15 : client: [10] opened from 127.0.0.1:37206
+Apr 14 22:15 : client: [10] closed
+Apr 14 22:15 : client: [11] opened from 127.0.0.1:37208
+Apr 14 22:15 : client: [11] closed
+Apr 14 22:15 : client: [12] opened from 127.0.0.1:37210
+Apr 14 22:15 : client: [12] closed
+Apr 14 22:15 : client: [13] opened from 127.0.0.1:37212
+Apr 14 22:15 : client: [13] closed
+Apr 14 22:15 : client: [14] opened from 127.0.0.1:37214
+Apr 14 22:15 : client: [14] closed
+Apr 14 22:15 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:16 : client: [6] closed
+Apr 14 22:16 : client: [3] closed
+Apr 14 22:16 : client: [0] closed
+Apr 14 22:16 : client: [2] closed
+Apr 14 22:16 : client: [1] closed
+Apr 14 22:16 : client: [15] opened from 127.0.0.1:37216
+Apr 14 22:16 : client: [16] opened from 127.0.0.1:37218
+Apr 14 22:16 : client: [17] opened from 127.0.0.1:37220
+Apr 14 22:16 : client: [18] opened from 127.0.0.1:37222
+Apr 14 22:16 : client: [15] closed
+Apr 14 22:16 : client: [17] closed
+Apr 14 22:16 : client: [16] closed
+Apr 14 22:16 : client: [18] closed
+Apr 14 22:16 : client: [19] opened from 127.0.0.1:37224
+Apr 14 22:16 : client: [20] opened from 127.0.0.1:37226
+Apr 14 22:16 : client: [21] opened from 127.0.0.1:37228
+Apr 14 22:16 : client: [22] opened from 127.0.0.1:37230
+Apr 14 22:16 : client: [19] closed
+Apr 14 22:16 : client: [20] closed
+Apr 14 22:16 : client: [21] closed
+Apr 14 22:16 : client: [22] closed
+Apr 14 22:16 : client: [23] opened from 127.0.0.1:37232
+Apr 14 22:16 : client: [24] opened from 127.0.0.1:37234
+Apr 14 22:16 : client: [25] opened from 127.0.0.1:37236
+Apr 14 22:16 : client: [26] opened from 127.0.0.1:37238
+Apr 14 22:16 : client: [23] closed
+Apr 14 22:16 : client: [25] closed
+Apr 14 22:16 : client: [26] closed
+Apr 14 22:16 : client: [24] closed
+Apr 14 22:16 : client: [27] opened from 127.0.0.1:37240
+Apr 14 22:16 : client: [28] opened from 127.0.0.1:37242
+Apr 14 22:16 : client: [29] opened from 127.0.0.1:37244
+Apr 14 22:16 : client: [30] opened from 127.0.0.1:37246
+Apr 14 22:16 : client: [27] closed
+Apr 14 22:16 : client: [29] closed
+Apr 14 22:16 : client: [30] closed
+Apr 14 22:16 : client: [28] closed
+Apr 14 22:16 : client: [31] opened from 127.0.0.1:37248
+Apr 14 22:16 : client: [32] opened from 127.0.0.1:37250
+Apr 14 22:16 : client: [33] opened from 127.0.0.1:37256
+Apr 14 22:16 : client: [34] opened from 127.0.0.1:37254
+Apr 14 22:16 : client: [32] closed
+Apr 14 22:16 : client: [33] closed
+Apr 14 22:16 : client: [31] closed
+Apr 14 22:16 : client: [34] closed
+Apr 14 22:16 : client: [35] opened from 127.0.0.1:37258
+Apr 14 22:16 : client: [36] opened from 127.0.0.1:37260
+Apr 14 22:16 : client: [37] opened from 127.0.0.1:37262
+Apr 14 22:16 : client: [38] opened from 127.0.0.1:37264
+Apr 14 22:17 : client: [39] opened from 127.0.0.1:37268
+Apr 14 22:17 : player: played "Hết thời - Ngọt.mp3"
+Apr 14 22:17 : client: [39] closed
+Apr 14 22:17 : client: [40] opened from 127.0.0.1:37270
+Apr 14 22:17 : client: [40] closed
+Apr 14 22:17 : client: [41] opened from 127.0.0.1:37272
+Apr 14 22:17 : client: [41] closed
+Apr 14 22:17 : client: [37] closed
+Apr 14 22:17 : client: [38] closed
+Apr 14 22:17 : client: [35] closed
+Apr 14 22:17 : client: [36] closed
+Apr 14 22:17 : client: [42] opened from 127.0.0.1:37274
+Apr 14 22:17 : client: [43] opened from 127.0.0.1:37276
+Apr 14 22:17 : client: [44] opened from 127.0.0.1:37278
+Apr 14 22:17 : client: [45] opened from 127.0.0.1:37280
+Apr 14 22:17 : client: [46] opened from 127.0.0.1:37282
+Apr 14 22:17 : client: [46] closed
+Apr 14 22:17 : client: [47] opened from 127.0.0.1:37284
+Apr 14 22:17 : client: [47] closed
+Apr 14 22:17 : client: [42] closed
+Apr 14 22:17 : client: [43] closed
+Apr 14 22:17 : client: [44] closed
+Apr 14 22:17 : client: [45] closed
+Apr 14 22:17 : client: [48] opened from 127.0.0.1:37286
+Apr 14 22:17 : client: [49] opened from 127.0.0.1:37288
+Apr 14 22:17 : client: [50] opened from 127.0.0.1:37290
+Apr 14 22:17 : client: [51] opened from 127.0.0.1:37292
+Apr 14 22:17 : client: [48] closed
+Apr 14 22:17 : client: [49] closed
+Apr 14 22:17 : client: [50] closed
+Apr 14 22:17 : client: [51] closed
+Apr 14 22:17 : client: [52] opened from 127.0.0.1:37294
+Apr 14 22:17 : client: [53] opened from 127.0.0.1:37296
+Apr 14 22:17 : client: [54] opened from 127.0.0.1:37298
+Apr 14 22:17 : client: [55] opened from 127.0.0.1:37300
+Apr 14 22:17 : client: [52] closed
+Apr 14 22:17 : client: [53] closed
+Apr 14 22:17 : client: [54] closed
+Apr 14 22:17 : client: [55] closed
+Apr 14 22:17 : client: [56] opened from 127.0.0.1:37302
+Apr 14 22:17 : client: [57] opened from 127.0.0.1:37304
+Apr 14 22:17 : client: [58] opened from 127.0.0.1:37306
+Apr 14 22:17 : client: [59] opened from 127.0.0.1:37308
+Apr 14 22:18 : client: [60] opened from 127.0.0.1:37312
+Apr 14 22:18 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:18 : client: [58] closed
+Apr 14 22:18 : client: [59] closed
+Apr 14 22:18 : client: [56] closed
+Apr 14 22:18 : client: [57] closed
+Apr 14 22:18 : client: [61] opened from 127.0.0.1:37314
+Apr 14 22:18 : client: [62] opened from 127.0.0.1:37316
+Apr 14 22:18 : client: [63] opened from 127.0.0.1:37318
+Apr 14 22:18 : client: [64] opened from 127.0.0.1:37320
+Apr 14 22:19 : client: [65] opened from 127.0.0.1:37322
+Apr 14 22:19 : client: [66] opened from 127.0.0.1:37324
+Apr 14 22:19 : client: [67] opened from 127.0.0.1:37326
+Apr 14 22:19 : client: [68] opened from 127.0.0.1:37328
+Apr 14 22:20 : client: [65] closed
+Apr 14 22:20 : client: [66] closed
+Apr 14 22:20 : client: [67] closed
+Apr 14 22:20 : client: [68] closed
+Apr 14 22:20 : client: [62] closed
+Apr 14 22:20 : client: [61] closed
+Apr 14 22:20 : client: [63] closed
+Apr 14 22:20 : client: [64] closed
+Apr 14 22:20 : client: [69] opened from 127.0.0.1:37330
+Apr 14 22:20 : client: [70] opened from 127.0.0.1:37332
+Apr 14 22:20 : client: [71] opened from 127.0.0.1:37336
+Apr 14 22:20 : client: [72] opened from 127.0.0.1:37338
+Apr 14 22:20 : client: [70] closed
+Apr 14 22:20 : client: [72] closed
+Apr 14 22:20 : client: [69] closed
+Apr 14 22:20 : client: [71] closed
+Apr 14 22:20 : client: [73] opened from 127.0.0.1:37340
+Apr 14 22:20 : client: [74] opened from 127.0.0.1:37342
+Apr 14 22:20 : client: [75] opened from 127.0.0.1:37344
+Apr 14 22:20 : client: [76] opened from 127.0.0.1:37346
+Apr 14 22:20 : client: [73] closed
+Apr 14 22:20 : client: [75] closed
+Apr 14 22:20 : client: [76] closed
+Apr 14 22:20 : client: [74] closed
+Apr 14 22:20 : client: [77] opened from 127.0.0.1:37348
+Apr 14 22:20 : client: [78] opened from 127.0.0.1:37350
+Apr 14 22:20 : client: [79] opened from 127.0.0.1:37354
+Apr 14 22:20 : client: [80] opened from 127.0.0.1:37356
+Apr 14 22:20 : client: [78] closed
+Apr 14 22:20 : client: [77] closed
+Apr 14 22:20 : client: [80] closed
+Apr 14 22:20 : client: [79] closed
+Apr 14 22:20 : client: [81] opened from 127.0.0.1:37358
+Apr 14 22:20 : client: [82] opened from 127.0.0.1:37360
+Apr 14 22:20 : client: [83] opened from 127.0.0.1:37362
+Apr 14 22:20 : client: [84] opened from 127.0.0.1:37364
+Apr 14 22:20 : client: [81] closed
+Apr 14 22:20 : client: [82] closed
+Apr 14 22:20 : client: [83] closed
+Apr 14 22:20 : client: [84] closed
+Apr 14 22:20 : client: [85] opened from 127.0.0.1:37366
+Apr 14 22:20 : client: [86] opened from 127.0.0.1:37368
+Apr 14 22:20 : client: [87] opened from 127.0.0.1:37372
+Apr 14 22:20 : client: [88] opened from 127.0.0.1:37374
+Apr 14 22:20 : client: [86] closed
+Apr 14 22:20 : client: [85] closed
+Apr 14 22:20 : client: [87] closed
+Apr 14 22:20 : client: [88] closed
+Apr 14 22:20 : client: [89] opened from 127.0.0.1:37376
+Apr 14 22:20 : client: [90] opened from 127.0.0.1:37378
+Apr 14 22:20 : client: [91] opened from 127.0.0.1:37380
+Apr 14 22:20 : client: [92] opened from 127.0.0.1:37382
+Apr 14 22:21 : client: [89] closed
+Apr 14 22:21 : client: [90] closed
+Apr 14 22:21 : client: [91] closed
+Apr 14 22:21 : client: [92] closed
+Apr 14 22:21 : client: [93] opened from 127.0.0.1:37384
+Apr 14 22:21 : client: [94] opened from 127.0.0.1:37386
+Apr 14 22:21 : client: [95] opened from 127.0.0.1:37390
+Apr 14 22:21 : client: [96] opened from 127.0.0.1:37392
+Apr 14 22:22 : client: [94] closed
+Apr 14 22:22 : client: [96] closed
+Apr 14 22:22 : client: [93] closed
+Apr 14 22:22 : client: [95] closed
+Apr 14 22:22 : client: [97] opened from 127.0.0.1:37504
+Apr 14 22:22 : client: [98] opened from 127.0.0.1:37506
+Apr 14 22:22 : client: [99] opened from 127.0.0.1:37508
+Apr 14 22:22 : client: [100] opened from 127.0.0.1:37510
+Apr 14 22:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:22 : player: played "Hết thời - Ngọt.mp3"
+Apr 14 22:22 : client: [60] closed
+Apr 14 22:23 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:23 : client: [0] opened from 127.0.0.1:37646
+Apr 14 22:23 : client: [1] opened from 127.0.0.1:37648
+Apr 14 22:23 : client: [2] opened from 127.0.0.1:37652
+Apr 14 22:23 : client: [3] opened from 127.0.0.1:37650
+Apr 14 22:24 : client: [2] closed
+Apr 14 22:24 : client: [3] closed
+Apr 14 22:24 : client: [1] closed
+Apr 14 22:24 : client: [0] closed
+Apr 14 22:24 : client: [4] opened from 127.0.0.1:37656
+Apr 14 22:24 : client: [5] opened from 127.0.0.1:37658
+Apr 14 22:24 : client: [6] opened from 127.0.0.1:37660
+Apr 14 22:24 : client: [7] opened from 127.0.0.1:37662
+Apr 14 22:25 : client: [4] closed
+Apr 14 22:25 : client: [7] closed
+Apr 14 22:25 : client: [5] closed
+Apr 14 22:25 : client: [6] closed
+Apr 14 22:25 : client: [8] opened from 127.0.0.1:37664
+Apr 14 22:25 : client: [9] opened from 127.0.0.1:37666
+Apr 14 22:26 : client: [9] closed
+Apr 14 22:26 : client: [8] closed
+Apr 14 22:26 : client: [10] opened from 127.0.0.1:37668
+Apr 14 22:26 : client: [11] opened from 127.0.0.1:37670
+Apr 14 22:29 : client: [11] closed
+Apr 14 22:29 : client: [10] closed
+Apr 14 22:29 : client: [12] opened from 127.0.0.1:37706
+Apr 14 22:29 : client: [13] opened from 127.0.0.1:37708
+Apr 14 22:31 : client: [12] closed
+Apr 14 22:31 : client: [13] closed
+Apr 14 22:31 : client: [14] opened from 127.0.0.1:37716
+Apr 14 22:31 : client: [15] opened from 127.0.0.1:37718
+Apr 14 22:32 : client: [15] closed
+Apr 14 22:32 : client: [14] closed
+Apr 14 22:32 : client: [16] opened from 127.0.0.1:37724
+Apr 14 22:32 : client: [17] opened from 127.0.0.1:37722
+Apr 14 22:32 : client: [18] opened from 127.0.0.1:37728
+Apr 14 22:32 : client: [19] opened from 127.0.0.1:37730
+Apr 14 22:34 : client: [16] closed
+Apr 14 22:34 : client: [17] closed
+Apr 14 22:34 : client: [18] closed
+Apr 14 22:34 : client: [19] closed
+Apr 14 22:34 : client: [20] opened from 127.0.0.1:37732
+Apr 14 22:34 : client: [21] opened from 127.0.0.1:37734
+Apr 14 22:34 : client: [22] opened from 127.0.0.1:37740
+Apr 14 22:34 : client: [23] opened from 127.0.0.1:37738
+Apr 14 22:34 : client: [24] opened from 127.0.0.1:37746
+Apr 14 22:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:35 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:37 : client: [24] closed
+Apr 14 22:37 : client: [21] closed
+Apr 14 22:37 : client: [23] closed
+Apr 14 22:37 : client: [20] closed
+Apr 14 22:37 : client: [22] closed
+Apr 14 22:37 : client: [25] opened from 127.0.0.1:37842
+Apr 14 22:37 : client: [26] opened from 127.0.0.1:37840
+Apr 14 22:37 : client: [27] opened from 127.0.0.1:37844
+Apr 14 22:37 : client: [28] opened from 127.0.0.1:37846
+Apr 14 22:39 : client: [29] opened from 127.0.0.1:37852
+Apr 14 22:39 : player: played "Hết thời - Ngọt.mp3"
+Apr 14 22:39 : client: [29] closed
+Apr 14 22:41 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:41 : client: [0] opened from 127.0.0.1:37992
+Apr 14 22:41 : client: [1] opened from 127.0.0.1:37996
+Apr 14 22:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:41 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 14 22:41 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:41 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:43 : client: [1] closed
+Apr 14 22:43 : client: [2] opened from 127.0.0.1:38098
+Apr 14 22:44 : client: [2] closed
+Apr 14 22:44 : client: [3] opened from 127.0.0.1:38102
+Apr 14 22:44 : client: [3] closed
+Apr 14 22:44 : player: played "A Higher Place - Adam Levine.mp3"
+Apr 14 22:45 : client: [0] closed
+Apr 14 22:45 : client: [4] opened from 127.0.0.1:38166
+Apr 14 22:45 : client: [5] opened from 127.0.0.1:38168
+Apr 14 22:45 : client: [6] opened from 127.0.0.1:38172
+Apr 14 22:45 : client: [7] opened from 127.0.0.1:38174
+Apr 14 22:45 : client: [8] opened from 127.0.0.1:38178
+Apr 14 22:45 : client: [8] closed
+Apr 14 22:45 : client: [9] opened from 127.0.0.1:38182
+Apr 14 22:46 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:46 : client: [9] closed
+Apr 14 22:46 : client: [10] opened from 127.0.0.1:38186
+Apr 14 22:47 : client: [10] closed
+Apr 14 22:47 : client: [11] opened from 127.0.0.1:38190
+Apr 14 22:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:47 : client: [11] closed
+Apr 14 22:47 : client: [12] opened from 127.0.0.1:38194
+Apr 14 22:47 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:48 : client: [12] closed
+Apr 14 22:48 : client: [13] opened from 127.0.0.1:38198
+Apr 14 22:48 : player: played "Hanabi - DAOKO × 米津玄師.mp3"
+Apr 14 22:48 : client: [13] closed
+Apr 14 22:48 : client: [14] opened from 127.0.0.1:38202
+Apr 14 22:48 : update: removing Hanabi - DAOKO × 米津玄師.mp3
+Apr 14 22:48 : update: removing Lemon - 米津玄師.mp3
+Apr 14 22:48 : update: added /Lemon.mp3
+Apr 14 22:48 : update: added /Hanabi.mp3
+Apr 14 22:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:49 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 14 22:49 : client: [14] closed
+Apr 14 22:49 : client: [15] opened from 127.0.0.1:38206
+Apr 14 22:54 : player: played "前前前世 - RADWIMPS.mp3"
+Apr 14 22:55 : client: [15] closed
+Apr 14 22:55 : client: [16] opened from 127.0.0.1:38334
+Apr 14 22:58 : player: played "Hết thời - Ngọt.mp3"
+Apr 26 20:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 20:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 20:34 : client: [0] opened from 127.0.0.1:38190
+Apr 26 20:34 : client: [1] opened from 127.0.0.1:38192
+Apr 26 20:34 : client: [2] opened from 127.0.0.1:38194
+Apr 26 20:34 : client: [3] opened from 127.0.0.1:38196
+Apr 26 20:34 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 20:34 : player: played "Hết thời - Ngọt.mp3"
+Apr 26 20:34 : player: played "Sing - Pentatonix.mp3"
+Apr 26 22:28 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 22:28 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Apr 26 22:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:28 : client: [0] opened from 127.0.0.1:51576
+Apr 26 22:28 : client: [1] opened from 127.0.0.1:51572
+Apr 26 22:28 : client: [2] opened from 127.0.0.1:51574
+Apr 26 22:28 : client: [3] opened from 127.0.0.1:51578
+Apr 26 22:28 : client: [4] opened from 127.0.0.1:51594
+Apr 26 22:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:29 : update: added /Love Song - Sara Bareilles.mp3
+Apr 26 22:29 : update: added /My Baby Just Cares For Me - Nina Simone.mp3
+Apr 26 22:29 : update: added /Welcome To The Black Parade - My Chemical Romance.mp3
+Apr 26 22:29 : update: added /Ain't It Fun - Paramore.mp3
+Apr 26 22:29 : update: added /Feeling Good - Nina Simone.mp3
+Apr 26 22:29 : update: added /Ain't No Mountain High Enough - Marvin Gaye & Tammi Terrell.mp3
+Apr 26 22:29 : update: added /Purple Rain - Prince.mp3
+Apr 26 22:29 : update: added /The A team - Ed Sheeran.mp3
+Apr 26 22:29 : update: added /Small Bump - Ed Sheeran.mp3
+Apr 26 22:29 : update: added /Fly me to the moon - Frank Sinatra.mp3
+Apr 26 22:29 : update: added /Isn't She Lovely - Stevie Wonder.mp3
+Apr 26 22:29 : update: added /Misery Business - Paramore.mp3
+Apr 26 22:29 : update: added /Holding Out For A Hero - Bonnie Tyler.mp3
+Apr 26 22:29 : update: added /Ignorance - Paramore.mp3
+Apr 26 22:29 : update: added /My Way - Frank Sinatra.mp3
+Apr 26 22:29 : update: added /Master Blaster - Stevie Wonder.mp3
+Apr 26 22:29 : update: added /Need You Now- Lady Antebellum.mp3
+Apr 26 22:29 : update: added /That's What You Get - Paramore.mp3
+Apr 26 22:29 : update: added /Dream A Little Dream Of Me - Louis & Ella.mp3
+Apr 26 22:29 : update: added /I put a spell on you - Nina Simone.mp3
+Apr 26 22:29 : update: added /I'm Still Standing - Elton John.mp3
+Apr 26 22:29 : update: added /L.O.V.E - Nat King Cole.mp3
+Apr 26 22:29 : update: added /Summertime - Ella Fitzgerald & Louis Armstrong.mp3
+Apr 26 22:29 : update: added /Still Into You - Paramore.mp3
+Apr 26 22:29 : update: added /Sir Duke - Stevie Wonder.mp3
+Apr 26 22:29 : update: added /Lose Yourself - Eminem.mp3
+Apr 26 22:29 : update: added /Jet Lag - Simple Plan ft. Natasha Bedingfield.mp3
+Apr 26 22:29 : update: added /Superstition - Stevie Wonder.mp3
+Apr 26 22:29 : update: added /That’s Life - Frank sinatra.mp3
+Apr 26 22:29 : update: added /Gravity - John Mayer.mp3
+Apr 26 22:29 : update: added /Keep Holding On - Avril Lavigne.mp3
+Apr 26 22:29 : update: added /If I Die Young - The Band Perry.mp3
+Apr 26 22:29 : update: added /Just The Two Of Us - Bill Withers.mp3
+Apr 26 22:29 : update: added /Georgia On My Mind - Ray Charles.mp3
+Apr 26 22:29 : update: added /The Only Exception - Paramore.mp3
+Apr 26 22:29 : update: added /It's A Man's Man's Man's World - James Brown.mp3
+Apr 26 22:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:30 : client: [4] closed
+Apr 26 22:30 : client: [5] opened from 127.0.0.1:51642
+Apr 26 22:30 : player: played "瞬き - back number.mp3"
+Apr 26 22:30 : client: [5] closed
+Apr 26 22:32 : client: [6] opened from 127.0.0.1:51690
+Apr 26 22:32 : client: [6] closed
+Apr 26 22:32 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:32 : client: [7] opened from 127.0.0.1:51692
+Apr 26 22:32 : client: [7] closed
+Apr 26 22:32 : client: [8] opened from 127.0.0.1:51694
+Apr 26 22:32 : client: [8] closed
+Apr 26 22:32 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:32 : client: [9] opened from 127.0.0.1:51696
+Apr 26 22:32 : client: [9] closed
+Apr 26 22:32 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:32 : client: [10] opened from 127.0.0.1:51698
+Apr 26 22:32 : client: [10] closed
+Apr 26 22:32 : client: [11] opened from 127.0.0.1:51700
+Apr 26 22:32 : player: played "Superstition - Stevie Wonder.mp3"
+Apr 26 22:32 : client: [11] closed
+Apr 26 22:33 : client: [12] opened from 127.0.0.1:51702
+Apr 26 22:33 : client: [12] closed
+Apr 26 22:33 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:33 : client: [13] opened from 127.0.0.1:51704
+Apr 26 22:33 : client: [13] closed
+Apr 26 22:33 : client: [14] opened from 127.0.0.1:51706
+Apr 26 22:33 : client: [14] closed
+Apr 26 22:33 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:33 : client: [15] opened from 127.0.0.1:51708
+Apr 26 22:33 : client: [15] closed
+Apr 26 22:34 : client: [16] opened from 127.0.0.1:51740
+Apr 26 22:34 : client: [16] closed
+Apr 26 22:34 : client: [17] opened from 127.0.0.1:51744
+Apr 26 22:35 : update: added Album/A Higher Place - Adam Levine.mp3
+Apr 26 22:35 : client: [17] closed
+Apr 26 22:35 : client: [18] opened from 127.0.0.1:51748
+Apr 26 22:35 : update: removing Album/A Higher Place - Adam Levine.mp3
+Apr 26 22:35 : update: added Albums/A Higher Place - Adam Levine.mp3
+Apr 26 22:36 : update: removing Albums/A Higher Place - Adam Levine.mp3
+Apr 26 22:36 : client: [18] closed
+Apr 26 22:36 : client: [19] opened from 127.0.0.1:51752
+Apr 26 22:36 : update: removing A Higher Place - Adam Levine.mp3
+Apr 26 22:36 : update: added /Adam Levine - A Higher Place.mp3
+Apr 26 22:36 : client: [19] closed
+Apr 26 22:39 : client: [20] opened from 127.0.0.1:51804
+Apr 26 22:39 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:40 : client: [20] closed
+Apr 26 22:40 : client: [21] opened from 127.0.0.1:51856
+Apr 26 22:40 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 22:45 : player: played "Hết thời - Ngọt.mp3"
+Apr 26 22:47 : player: played "Attention - Pentatonix.mp3"
+Apr 26 22:55 : player: played "Can't Hold Us - Pentatonix.mp3"
+Apr 26 22:57 : client: [1] closed
+Apr 26 22:57 : client: [2] closed
+Apr 26 22:57 : client: [3] closed
+Apr 26 22:57 : client: [0] closed
+Apr 26 22:57 : client: [22] opened from 127.0.0.1:52116
+Apr 26 22:57 : client: [23] opened from 127.0.0.1:52118
+Apr 26 22:57 : client: [24] opened from 127.0.0.1:52120
+Apr 26 22:57 : client: [25] opened from 127.0.0.1:52122
+Apr 26 22:58 : player: played "Cho Tôi Đi Theo - Ngọt.mp3"
+Apr 26 22:59 : client: [22] closed
+Apr 26 22:59 : client: [23] closed
+Apr 26 22:59 : client: [24] closed
+Apr 26 22:59 : client: [25] closed
+Apr 26 22:59 : client: [26] opened from 127.0.0.1:52156
+Apr 26 22:59 : client: [27] opened from 127.0.0.1:52158
+Apr 26 22:59 : client: [28] opened from 127.0.0.1:52160
+Apr 26 22:59 : client: [29] opened from 127.0.0.1:52162
+Apr 26 23:02 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+Apr 26 23:05 : client: [28] closed
+Apr 26 23:05 : client: [29] closed
+Apr 26 23:05 : client: [26] closed
+Apr 26 23:05 : client: [27] closed
+Apr 26 23:05 : client: [30] opened from 127.0.0.1:52300
+Apr 26 23:05 : client: [31] opened from 127.0.0.1:52302
+Apr 26 23:05 : client: [32] opened from 127.0.0.1:52304
+Apr 26 23:05 : client: [33] opened from 127.0.0.1:52306
+Apr 26 23:05 : client: [32] closed
+Apr 26 23:05 : client: [30] closed
+Apr 26 23:05 : client: [33] closed
+Apr 26 23:05 : client: [31] closed
+Apr 26 23:05 : client: [34] opened from 127.0.0.1:52310
+Apr 26 23:05 : client: [35] opened from 127.0.0.1:52308
+Apr 26 23:05 : client: [36] opened from 127.0.0.1:52314
+Apr 26 23:05 : client: [37] opened from 127.0.0.1:52316
+Apr 26 23:06 : player: played "Kataomoi - Aimer.mp3"
+Apr 26 23:10 : player: played "La La Latch - Pentatonix.mp3"
+Apr 26 23:10 : client: [35] closed
+Apr 26 23:10 : client: [37] closed
+Apr 26 23:10 : client: [34] closed
+Apr 26 23:10 : client: [36] closed
+Apr 26 23:10 : client: [38] opened from 127.0.0.1:52408
+Apr 26 23:10 : client: [39] opened from 127.0.0.1:52410
+Apr 26 23:10 : client: [40] opened from 127.0.0.1:52412
+Apr 26 23:10 : client: [41] opened from 127.0.0.1:52414
+Apr 26 23:13 : player: played "Lần cuối - Ngọt.mp3"
+Apr 26 23:15 : client: [21] closed
+Apr 26 23:15 : client: [39] closed
+Apr 26 23:15 : client: [41] closed
+Apr 26 23:15 : client: [38] closed
+Apr 26 23:15 : client: [40] closed
+Apr 26 23:15 : client: [42] opened from 127.0.0.1:52712
+Apr 26 23:15 : client: [43] opened from 127.0.0.1:52714
+Apr 26 23:15 : client: [44] opened from 127.0.0.1:52716
+Apr 26 23:15 : client: [45] opened from 127.0.0.1:52718
+Apr 26 23:16 : client: [42] closed
+Apr 26 23:16 : client: [44] closed
+Apr 26 23:16 : client: [43] closed
+Apr 26 23:16 : client: [45] closed
+Apr 26 23:16 : client: [46] opened from 127.0.0.1:52720
+Apr 26 23:16 : client: [47] opened from 127.0.0.1:52722
+Apr 26 23:16 : client: [48] opened from 127.0.0.1:52724
+Apr 26 23:16 : client: [49] opened from 127.0.0.1:52726
+Apr 26 23:16 : client: [48] closed
+Apr 26 23:16 : client: [46] closed
+Apr 26 23:16 : client: [49] closed
+Apr 26 23:16 : client: [47] closed
+Apr 26 23:16 : client: [50] opened from 127.0.0.1:52728
+Apr 26 23:16 : client: [51] opened from 127.0.0.1:52730
+Apr 26 23:16 : client: [52] opened from 127.0.0.1:52732
+Apr 26 23:16 : client: [53] opened from 127.0.0.1:52734
+Apr 26 23:16 : client: [50] closed
+Apr 26 23:16 : client: [51] closed
+Apr 26 23:16 : client: [52] closed
+Apr 26 23:16 : client: [53] closed
+Apr 26 23:17 : client: [54] opened from 127.0.0.1:52736
+Apr 26 23:17 : client: [55] opened from 127.0.0.1:52738
+Apr 26 23:17 : client: [56] opened from 127.0.0.1:52740
+Apr 26 23:17 : client: [57] opened from 127.0.0.1:52742
+Apr 26 23:17 : player: played "No One Else Like You - Adam Levine.mp3"
+Apr 26 23:20 : player: played "Officially Missing You - Jayesslee.mp3"
+Apr 26 23:25 : player: played "Hanabi.mp3"
+Apr 26 23:27 : client: [58] opened from 127.0.0.1:52996
+Apr 26 23:27 : client: [58] closed
+Apr 26 23:28 : client: [59] opened from 127.0.0.1:52998
+Apr 26 23:28 : client: [59] closed
+Apr 26 23:28 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 23:30 : client: [54] closed
+Apr 26 23:30 : client: [56] closed
+Apr 26 23:30 : client: [55] closed
+Apr 26 23:30 : client: [57] closed
+Apr 26 23:30 : client: [60] opened from 127.0.0.1:53012
+Apr 26 23:30 : client: [61] opened from 127.0.0.1:53014
+Apr 26 23:30 : client: [62] opened from 127.0.0.1:53016
+Apr 26 23:30 : client: [63] opened from 127.0.0.1:53018
+Apr 26 23:31 : client: [60] closed
+Apr 26 23:31 : client: [61] closed
+Apr 26 23:31 : client: [62] closed
+Apr 26 23:31 : client: [63] closed
+Apr 26 23:31 : client: [64] opened from 127.0.0.1:53022
+Apr 26 23:31 : client: [65] opened from 127.0.0.1:53020
+Apr 26 23:31 : client: [66] opened from 127.0.0.1:53026
+Apr 26 23:31 : client: [67] opened from 127.0.0.1:53028
+Apr 26 23:31 : client: [64] closed
+Apr 26 23:31 : client: [65] closed
+Apr 26 23:31 : client: [67] closed
+Apr 26 23:31 : client: [66] closed
+Apr 26 23:31 : client: [68] opened from 127.0.0.1:53030
+Apr 26 23:31 : client: [69] opened from 127.0.0.1:53032
+Apr 26 23:31 : client: [70] opened from 127.0.0.1:53034
+Apr 26 23:31 : client: [71] opened from 127.0.0.1:53036
+Apr 26 23:31 : player: played "Lemon.mp3"
+Apr 26 23:32 : client: [68] closed
+Apr 26 23:32 : client: [70] closed
+Apr 26 23:32 : client: [71] closed
+Apr 26 23:32 : client: [69] closed
+Apr 26 23:32 : client: [72] opened from 127.0.0.1:53096
+Apr 26 23:32 : client: [73] opened from 127.0.0.1:53098
+Apr 26 23:32 : client: [74] opened from 127.0.0.1:53100
+Apr 26 23:32 : client: [75] opened from 127.0.0.1:53102
+Apr 26 23:32 : client: [72] closed
+Apr 26 23:32 : client: [73] closed
+Apr 26 23:32 : client: [74] closed
+Apr 26 23:32 : client: [75] closed
+Apr 26 23:32 : client: [76] opened from 127.0.0.1:53104
+Apr 26 23:32 : client: [77] opened from 127.0.0.1:53106
+Apr 26 23:32 : client: [78] opened from 127.0.0.1:53108
+Apr 26 23:32 : client: [79] opened from 127.0.0.1:53110
+Apr 26 23:32 : client: [76] closed
+Apr 26 23:32 : client: [78] closed
+Apr 26 23:32 : client: [77] closed
+Apr 26 23:32 : client: [79] closed
+Apr 26 23:32 : client: [80] opened from 127.0.0.1:53112
+Apr 26 23:32 : client: [81] opened from 127.0.0.1:53114
+Apr 26 23:32 : client: [82] opened from 127.0.0.1:53116
+Apr 26 23:32 : client: [83] opened from 127.0.0.1:53118
+Apr 26 23:33 : client: [80] closed
+Apr 26 23:33 : client: [81] closed
+Apr 26 23:33 : client: [82] closed
+Apr 26 23:33 : client: [83] closed
+Apr 26 23:33 : client: [84] opened from 127.0.0.1:53124
+Apr 26 23:33 : client: [85] opened from 127.0.0.1:53126
+Apr 26 23:33 : client: [86] opened from 127.0.0.1:53130
+Apr 26 23:33 : client: [87] opened from 127.0.0.1:53132
+Apr 26 23:33 : player: played "Problem - Pentatonix.mp3"
+Apr 26 23:34 : client: [84] closed
+Apr 26 23:34 : client: [86] closed
+Apr 26 23:34 : client: [85] closed
+Apr 26 23:34 : client: [87] closed
+Apr 26 23:34 : client: [88] opened from 127.0.0.1:53134
+Apr 26 23:34 : client: [89] opened from 127.0.0.1:53136
+Apr 26 23:34 : client: [90] opened from 127.0.0.1:53138
+Apr 26 23:34 : client: [91] opened from 127.0.0.1:53140
+Apr 26 23:37 : client: [89] closed
+Apr 26 23:37 : client: [91] closed
+Apr 26 23:37 : client: [88] closed
+Apr 26 23:37 : client: [90] closed
+Apr 26 23:37 : client: [92] opened from 127.0.0.1:53292
+Apr 26 23:37 : client: [93] opened from 127.0.0.1:53294
+Apr 26 23:37 : client: [94] opened from 127.0.0.1:53296
+Apr 26 23:37 : client: [95] opened from 127.0.0.1:53298
+Apr 26 23:37 : client: [94] closed
+Apr 26 23:37 : client: [95] closed
+Apr 26 23:37 : client: [92] closed
+Apr 26 23:37 : client: [93] closed
+Apr 26 23:37 : client: [96] opened from 127.0.0.1:53300
+Apr 26 23:37 : client: [97] opened from 127.0.0.1:53302
+Apr 26 23:37 : client: [98] opened from 127.0.0.1:53304
+Apr 26 23:37 : client: [99] opened from 127.0.0.1:53306
+Apr 26 23:37 : client: [98] closed
+Apr 26 23:37 : client: [99] closed
+Apr 26 23:37 : client: [96] closed
+Apr 26 23:37 : client: [97] closed
+Apr 26 23:37 : client: [100] opened from 127.0.0.1:53308
+Apr 26 23:37 : client: [101] opened from 127.0.0.1:53310
+Apr 26 23:37 : client: [102] opened from 127.0.0.1:53312
+Apr 26 23:37 : client: [103] opened from 127.0.0.1:53314
+Apr 26 23:38 : player: played "Rather Be - Clean Bandit.mp3"
+Apr 26 23:41 : player: played "Shelter - Porter Robinson & Madeon.mp3"
+Apr 26 23:44 : player: played "Sing - Pentatonix.mp3"
+Apr 26 23:47 : player: played "Spectrum - Zedd.mp3"
+Apr 26 23:51 : client: [104] opened from 127.0.0.1:53366
+Apr 26 23:51 : client: [104] closed
+Apr 26 23:52 : client: [105] opened from 127.0.0.1:53368
+Apr 26 23:52 : client: [105] closed
+Apr 26 23:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+Apr 26 23:54 : player: played "瞬き - back number.mp3"
+Apr 26 23:58 : player: played "前前前世 - RADWIMPS.mp3"
+Apr 26 23:58 : client: [102] closed
+Apr 26 23:58 : client: [100] closed
+Apr 26 23:58 : client: [101] closed
+Apr 26 23:58 : client: [103] closed
+Apr 26 23:59 : client: [106] opened from 127.0.0.1:53634
+Apr 26 23:59 : client: [107] opened from 127.0.0.1:53636
+Apr 26 23:59 : client: [108] opened from 127.0.0.1:53638
+Apr 26 23:59 : client: [109] opened from 127.0.0.1:53640
+Apr 27 00:02 : client: [110] opened from 127.0.0.1:53916
+Apr 27 00:02 : player: played "Ain't It Fun - Paramore.mp3"
+Apr 27 00:02 : client: [110] closed
+May 01 14:24 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 14:24 : client: [0] opened from 127.0.0.1:42210
+May 01 14:24 : client: [1] opened from 127.0.0.1:42212
+May 01 14:25 : client: [2] opened from 127.0.0.1:42216
+May 01 14:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 14:25 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 01 14:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 14:25 : client: [2] closed
+May 01 14:28 : player: played "Ain't It Fun - Paramore.mp3"
+May 01 14:29 : client: [3] opened from 127.0.0.1:42222
+May 01 14:29 : client: [3] closed
+May 01 14:29 : client: [4] opened from 127.0.0.1:42224
+May 01 14:29 : client: [4] closed
+May 01 14:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 14:29 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 14:31 : player: played "Ain't No Mountain High Enough - Marvin Gaye & Tammi Terrell.mp3"
+May 01 14:34 : player: played "Dream A Little Dream Of Me - Louis & Ella.mp3"
+May 01 14:37 : player: played "Feeling Good - Nina Simone.mp3"
+May 01 14:40 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 01 14:44 : player: played "Georgia On My Mind - Ray Charles.mp3"
+May 01 14:48 : player: played "Gravity - John Mayer.mp3"
+May 01 14:52 : player: played "Holding Out For A Hero - Bonnie Tyler.mp3"
+May 01 14:55 : player: played "I put a spell on you - Nina Simone.mp3"
+May 01 14:58 : player: played "I'm Still Standing - Elton John.mp3"
+May 01 15:02 : player: played "If I Die Young - The Band Perry.mp3"
+May 01 15:06 : player: played "Ignorance - Paramore.mp3"
+May 01 15:09 : player: played "Isn't She Lovely - Stevie Wonder.mp3"
+May 01 15:12 : player: played "It's A Man's Man's Man's World - James Brown.mp3"
+May 01 15:15 : player: played "Jet Lag - Simple Plan ft. Natasha Bedingfield.mp3"
+May 01 15:19 : player: played "Just The Two Of Us - Bill Withers.mp3"
+May 01 15:23 : client: [5] opened from 127.0.0.1:43254
+May 01 15:23 : client: [5] closed
+May 01 15:25 : client: [6] opened from 127.0.0.1:43256
+May 01 15:25 : client: [6] closed
+May 01 15:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 15:25 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 01 15:27 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 01 15:33 : player: played "Lose Yourself - Eminem.mp3"
+May 01 15:38 : client: [7] opened from 127.0.0.1:43310
+May 01 15:38 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 15:38 : client: [7] closed
+May 01 15:43 : player: played "Master Blaster - Stevie Wonder.mp3"
+May 01 15:46 : player: played "Misery Business - Paramore.mp3"
+May 01 15:52 : player: played "My Baby Just Cares For Me - Nina Simone.mp3"
+May 01 15:56 : player: played "My Way - Frank Sinatra.mp3"
+May 01 16:00 : player: played "Need You Now- Lady Antebellum.mp3"
+May 01 16:03 : client: [8] opened from 127.0.0.1:43388
+May 01 16:03 : client: [8] closed
+May 01 16:05 : client: [9] opened from 127.0.0.1:43390
+May 01 16:05 : client: [9] closed
+May 01 16:05 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 16:06 : player: played "Sir Duke - Stevie Wonder.mp3"
+May 01 16:11 : player: played "Small Bump - Ed Sheeran.mp3"
+May 01 16:14 : player: played "Still Into You - Paramore.mp3"
+May 01 16:19 : player: played "Summertime - Ella Fitzgerald & Louis Armstrong.mp3"
+May 01 16:24 : player: played "Superstition - Stevie Wonder.mp3"
+May 01 16:24 : client: [10] opened from 127.0.0.1:43480
+May 01 16:24 : client: [10] closed
+May 01 16:25 : client: [11] opened from 127.0.0.1:43540
+May 01 16:25 : client: [11] closed
+May 01 16:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 16:28 : client: [12] opened from 127.0.0.1:43558
+May 01 16:28 : client: [12] closed
+May 01 16:35 : client: [13] opened from 127.0.0.1:43578
+May 01 16:35 : client: [13] closed
+May 01 16:35 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 16:36 : player: played "That's What You Get - Paramore.mp3"
+May 01 16:39 : player: played "That’s Life - Frank sinatra.mp3"
+May 01 16:43 : player: played "The A team - Ed Sheeran.mp3"
+May 01 16:47 : player: played "The Only Exception - Paramore.mp3"
+May 01 16:53 : player: played "Welcome To The Black Parade - My Chemical Romance.mp3"
+May 01 16:53 : client: [14] opened from 127.0.0.1:43686
+May 01 16:53 : client: [14] closed
+May 01 16:53 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 16:58 : player: played "Hết thời - Ngọt.mp3"
+May 01 17:00 : player: played "Attention - Pentatonix.mp3"
+May 01 17:04 : player: played "Can't Hold Us - Pentatonix.mp3"
+May 01 17:07 : player: played "Cho Tôi Đi Theo - Ngọt.mp3"
+May 01 17:08 : client: [15] opened from 127.0.0.1:43718
+May 01 17:08 : client: [15] closed
+May 01 17:25 : client: [16] opened from 127.0.0.1:43858
+May 01 17:25 : client: [16] closed
+May 01 17:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 17:28 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+May 01 17:32 : player: played "Kataomoi - Aimer.mp3"
+May 01 17:35 : player: played "La La Latch - Pentatonix.mp3"
+May 01 17:39 : player: played "Lần cuối - Ngọt.mp3"
+May 01 17:43 : player: played "No One Else Like You - Adam Levine.mp3"
+May 01 17:46 : player: played "Officially Missing You - Jayesslee.mp3"
+May 01 17:51 : player: played "Hanabi.mp3"
+May 01 17:56 : player: played "Lemon.mp3"
+May 01 17:58 : player: played "Problem - Pentatonix.mp3"
+May 01 18:01 : client: [17] opened from 127.0.0.1:43938
+May 01 18:01 : client: [17] closed
+May 01 20:25 : client: [18] opened from 127.0.0.1:44918
+May 01 20:25 : client: [18] closed
+May 01 20:25 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 20:26 : player: played "Rather Be - Clean Bandit.mp3"
+May 01 20:30 : player: played "Shelter - Porter Robinson & Madeon.mp3"
+May 01 20:33 : player: played "Sing - Pentatonix.mp3"
+May 01 20:36 : player: played "Spectrum - Zedd.mp3"
+May 01 20:41 : player: played "瞬き - back number.mp3"
+May 01 20:46 : player: played "前前前世 - RADWIMPS.mp3"
+May 01 20:50 : player: played "Ain't It Fun - Paramore.mp3"
+May 01 20:51 : client: [19] opened from 127.0.0.1:45014
+May 01 20:51 : client: [19] closed
+May 01 20:52 : client: [20] opened from 127.0.0.1:45016
+May 01 20:52 : client: [20] closed
+May 01 20:52 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 01 20:53 : player: played "Ain't No Mountain High Enough - Marvin Gaye & Tammi Terrell.mp3"
+May 01 20:57 : player: played "Dream A Little Dream Of Me - Louis & Ella.mp3"
+May 01 20:59 : player: played "Feeling Good - Nina Simone.mp3"
+May 01 21:02 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 01 21:06 : player: played "Georgia On My Mind - Ray Charles.mp3"
+May 01 21:10 : player: played "Gravity - John Mayer.mp3"
+May 01 21:15 : player: played "Holding Out For A Hero - Bonnie Tyler.mp3"
+May 01 21:17 : player: played "I put a spell on you - Nina Simone.mp3"
+May 01 21:20 : player: played "I'm Still Standing - Elton John.mp3"
+May 01 21:24 : player: played "If I Die Young - The Band Perry.mp3"
+May 01 21:28 : player: played "Ignorance - Paramore.mp3"
+May 01 21:31 : player: played "Isn't She Lovely - Stevie Wonder.mp3"
+May 01 21:34 : player: played "It's A Man's Man's Man's World - James Brown.mp3"
+May 01 21:38 : player: played "Jet Lag - Simple Plan ft. Natasha Bedingfield.mp3"
+May 01 21:42 : player: played "Just The Two Of Us - Bill Withers.mp3"
+May 01 21:46 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 01 21:48 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 01 21:48 : client: [21] opened from 127.0.0.1:45060
+May 01 21:48 : client: [21] closed
+May 01 22:14 : player: played "Lose Yourself - Eminem.mp3"
+May 18 20:21 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 20:21 : client: [0] opened from 127.0.0.1:40164
+May 18 20:21 : client: [1] opened from 127.0.0.1:40166
+May 18 20:21 : client: [2] opened from 127.0.0.1:40170
+May 18 20:21 : client: [3] opened from 127.0.0.1:40168
+May 18 20:21 : client: [4] opened from 127.0.0.1:40180
+May 18 20:21 : update: removing Adam Levine - A Higher Place.mp3
+May 18 20:21 : update: added /언젠가 알겠지 - 김수영.mp3
+May 18 20:21 : update: added /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 20:21 : update: added /Knee Socks - Arctic Monkeys.mp3
+May 18 20:21 : update: added /R U Mine - Arctic Monkeys.mp3
+May 18 20:21 : update: added /A Higher Place - Adam Levine.mp3
+May 18 20:21 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 20:22 : alsa_output: Decoder is too slow; playing silence to avoid xrun
+May 18 20:22 : client: [4] closed
+May 18 20:22 : client: [5] opened from 127.0.0.1:40186
+May 18 20:22 : client: [5] closed
+May 18 20:23 : client: [6] opened from 127.0.0.1:40194
+May 18 20:23 : client: [6] closed
+May 18 20:23 : client: [7] opened from 127.0.0.1:40198
+May 18 20:23 : exception: Failed to open audio output
+May 18 20:23 : client: [7] closed
+May 18 20:23 : client: [8] opened from 127.0.0.1:40202
+May 18 20:24 : client: [8] closed
+May 18 20:25 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 18 20:26 : client: [9] opened from 127.0.0.1:40274
+May 18 20:27 : client: [9] closed
+May 18 20:27 : client: [10] opened from 127.0.0.1:40278
+May 18 20:27 : client: [11] opened from 127.0.0.1:40282
+May 18 20:27 : client: [11] closed
+May 18 20:27 : client: [10] closed
+May 18 20:27 : client: [12] opened from 127.0.0.1:40286
+May 18 20:28 : player: played "Misery Business - Paramore.mp3"
+May 18 20:29 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 20:29 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 20:29 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 20:29 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 20:29 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 20:29 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 20:29 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 20:29 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 20:29 : update: updating /La La Latch - Pentatonix.mp3
+May 18 20:29 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 20:29 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 20:29 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 20:29 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 20:29 : update: updating /Ain't No Mountain High Enough - Marvin Gaye & Tammi Terrell.mp3
+May 18 20:29 : update: updating /Attention - Pentatonix.mp3
+May 18 20:29 : update: updating /Purple Rain - Prince.mp3
+May 18 20:29 : update: updating /The A team - Ed Sheeran.mp3
+May 18 20:29 : update: updating /瞬き - back number.mp3
+May 18 20:29 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 20:29 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 20:29 : update: updating /Lần cuối - Ngọt.mp3
+May 18 20:29 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 20:29 : update: updating /Misery Business - Paramore.mp3
+May 18 20:29 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 20:29 : update: updating /Ignorance - Paramore.mp3
+May 18 20:29 : update: updating /My Way - Frank Sinatra.mp3
+May 18 20:29 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 20:29 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 20:29 : update: updating /Lemon.mp3
+May 18 20:29 : update: updating /Need You Now- Lady Antebellum.mp3
+May 18 20:29 : update: updating /That's What You Get - Paramore.mp3
+May 18 20:29 : update: updating /Dream A Little Dream Of Me - Louis & Ella.mp3
+May 18 20:29 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 20:29 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 20:29 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 20:29 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 20:29 : update: updating /Problem - Pentatonix.mp3
+May 18 20:29 : update: updating /Spectrum - Zedd.mp3
+May 18 20:29 : update: updating /Summertime - Ella Fitzgerald & Louis Armstrong.mp3
+May 18 20:29 : update: updating /Still Into You - Paramore.mp3
+May 18 20:29 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 20:29 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 20:29 : update: updating /Lose Yourself - Eminem.mp3
+May 18 20:29 : update: updating /Jet Lag - Simple Plan ft. Natasha Bedingfield.mp3
+May 18 20:29 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 20:29 : update: updating /Hanabi.mp3
+May 18 20:29 : update: updating /Hết thời - Ngọt.mp3
+May 18 20:29 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 20:29 : update: updating /Sing - Pentatonix.mp3
+May 18 20:29 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 20:29 : update: updating /Gravity - John Mayer.mp3
+May 18 20:29 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 20:29 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 20:29 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 20:29 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 20:29 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 20:29 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 20:29 : update: updating /The Only Exception - Paramore.mp3
+May 18 20:29 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 20:29 : update: updating /Kataomoi - Aimer.mp3
+May 18 20:29 : client: [12] closed
+May 18 20:29 : client: [13] opened from 127.0.0.1:40292
+May 18 20:30 : client: [13] closed
+May 18 20:31 : client: [14] opened from 127.0.0.1:40296
+May 18 20:31 : client: [14] closed
+May 18 20:31 : client: [15] opened from 127.0.0.1:40300
+May 18 20:31 : client: [15] closed
+May 18 20:32 : player: played "前前前世 - RADWIMPS.mp3"
+May 18 20:32 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 20:32 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 18 20:32 : client: [0] opened from 127.0.0.1:40362
+May 18 20:32 : client: [1] opened from 127.0.0.1:40360
+May 18 20:32 : client: [2] opened from 127.0.0.1:40364
+May 18 20:32 : client: [3] opened from 127.0.0.1:40372
+May 18 20:32 : client: [4] opened from 127.0.0.1:40378
+May 18 20:32 : update: removing Ain't No Mountain High Enough - Marvin Gaye & Tammi Terrell.mp3
+May 18 20:32 : update: removing Dream A Little Dream Of Me - Louis & Ella.mp3
+May 18 20:32 : update: removing Need You Now- Lady Antebellum.mp3
+May 18 20:32 : update: removing Summertime - Ella Fitzgerald & Louis Armstrong.mp3
+May 18 20:32 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 20:32 : update: added /Summertime - Ella Fitzgerald.mp3
+May 18 20:32 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 20:32 : update: added /Need You Now - Lady Antebellum.mp3
+May 18 20:32 : update: added /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 20:32 : update: added /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 20:32 : client: [5] opened from 127.0.0.1:40380
+May 18 20:32 : client: [5] closed
+May 18 20:33 : client: [6] opened from 127.0.0.1:40408
+May 18 20:33 : client: [6] closed
+May 18 20:34 : update: removing Jet Lag - Simple Plan ft. Natasha Bedingfield.mp3
+May 18 20:34 : update: removing Lemon.mp3
+May 18 20:34 : update: removing 瞬き - back number.mp3
+May 18 20:34 : update: added /Lemon - 米津玄師.mp3
+May 18 20:34 : update: added /Jet Lag - Simple Plan.mp3
+May 18 20:34 : update: added /瞬き - Back Number.mp3
+May 18 20:34 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 20:34 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 20:34 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 20:34 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 20:34 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 20:34 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 20:34 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 20:34 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 20:34 : update: updating /La La Latch - Pentatonix.mp3
+May 18 20:34 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 20:34 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 20:34 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 20:34 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 20:34 : update: updating /Attention - Pentatonix.mp3
+May 18 20:34 : update: updating /Purple Rain - Prince.mp3
+May 18 20:34 : update: updating /The A team - Ed Sheeran.mp3
+May 18 20:34 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 20:34 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 20:34 : update: updating /Lần cuối - Ngọt.mp3
+May 18 20:34 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 20:34 : update: updating /Misery Business - Paramore.mp3
+May 18 20:34 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 20:34 : update: updating /Ignorance - Paramore.mp3
+May 18 20:34 : update: updating /My Way - Frank Sinatra.mp3
+May 18 20:34 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 20:34 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 20:34 : update: updating /That's What You Get - Paramore.mp3
+May 18 20:34 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 20:34 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 20:34 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 20:34 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 20:34 : update: updating /Problem - Pentatonix.mp3
+May 18 20:34 : update: updating /Spectrum - Zedd.mp3
+May 18 20:34 : update: updating /Lemon - 米津玄師.mp3
+May 18 20:34 : update: updating /Still Into You - Paramore.mp3
+May 18 20:34 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 20:34 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 20:34 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 20:34 : update: updating /Lose Yourself - Eminem.mp3
+May 18 20:34 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 20:34 : update: updating /Hanabi.mp3
+May 18 20:34 : update: updating /Hết thời - Ngọt.mp3
+May 18 20:34 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 20:34 : update: updating /Sing - Pentatonix.mp3
+May 18 20:34 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 20:34 : update: updating /Gravity - John Mayer.mp3
+May 18 20:34 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 20:34 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 20:34 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 20:34 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 20:34 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 20:34 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 20:34 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 20:34 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 20:34 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 20:34 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 20:34 : update: updating /The Only Exception - Paramore.mp3
+May 18 20:34 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 20:34 : update: updating /瞬き - Back Number.mp3
+May 18 20:34 : update: updating /Kataomoi - Aimer.mp3
+May 18 20:34 : player: played "前前前世 - RADWIMPS.mp3"
+May 18 20:35 : client: [4] closed
+May 18 20:35 : client: [7] opened from 127.0.0.1:40416
+May 18 20:37 : client: [7] closed
+May 18 20:37 : client: [8] opened from 127.0.0.1:40438
+May 18 20:37 : update: removing Hanabi.mp3
+May 18 20:37 : update: added /Hanabi - 米津玄師.mp3
+May 18 20:37 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 20:37 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 20:37 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 20:37 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 20:37 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 20:37 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 20:37 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 20:37 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 20:37 : update: updating /La La Latch - Pentatonix.mp3
+May 18 20:37 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 20:37 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 20:37 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 20:37 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 20:37 : update: updating /Attention - Pentatonix.mp3
+May 18 20:37 : update: updating /Purple Rain - Prince.mp3
+May 18 20:37 : update: updating /The A team - Ed Sheeran.mp3
+May 18 20:37 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 20:37 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 20:37 : update: updating /Lần cuối - Ngọt.mp3
+May 18 20:37 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 20:37 : update: updating /Misery Business - Paramore.mp3
+May 18 20:37 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 20:37 : update: updating /Ignorance - Paramore.mp3
+May 18 20:37 : update: updating /My Way - Frank Sinatra.mp3
+May 18 20:37 : update: updating /Hanabi - 米津玄師.mp3
+May 18 20:37 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 20:37 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 20:37 : update: updating /That's What You Get - Paramore.mp3
+May 18 20:37 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 20:37 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 20:37 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 20:37 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 20:37 : update: updating /Problem - Pentatonix.mp3
+May 18 20:37 : update: updating /Spectrum - Zedd.mp3
+May 18 20:37 : update: updating /Lemon - 米津玄師.mp3
+May 18 20:37 : update: updating /Still Into You - Paramore.mp3
+May 18 20:37 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 20:37 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 20:37 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 20:37 : update: updating /Lose Yourself - Eminem.mp3
+May 18 20:37 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 20:37 : update: updating /Hết thời - Ngọt.mp3
+May 18 20:37 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 20:37 : update: updating /Sing - Pentatonix.mp3
+May 18 20:37 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 20:37 : update: updating /Gravity - John Mayer.mp3
+May 18 20:37 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 20:37 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 20:37 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 20:37 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 20:37 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 20:37 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 20:37 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 20:37 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 20:37 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 20:37 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 20:37 : update: updating /The Only Exception - Paramore.mp3
+May 18 20:37 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 20:37 : update: updating /瞬き - Back Number.mp3
+May 18 20:37 : update: updating /Kataomoi - Aimer.mp3
+May 18 20:37 : client: [8] closed
+May 18 20:37 : client: [9] opened from 127.0.0.1:40442
+May 18 20:38 : client: [9] closed
+May 18 20:38 : client: [10] opened from 127.0.0.1:40446
+May 18 20:38 : client: [10] closed
+May 18 20:40 : player: played "Gravity - John Mayer.mp3"
+May 18 20:44 : player: played "Rather Be - Clean Bandit.mp3"
+May 18 20:46 : client: [1] closed
+May 18 20:46 : client: [0] closed
+May 18 20:46 : client: [2] closed
+May 18 20:46 : client: [3] closed
+May 18 20:46 : client: [11] opened from 127.0.0.1:40526
+May 18 20:46 : client: [12] opened from 127.0.0.1:40528
+May 18 20:46 : client: [13] opened from 127.0.0.1:40530
+May 18 20:46 : client: [14] opened from 127.0.0.1:40532
+May 18 20:47 : client: [11] closed
+May 18 20:47 : client: [13] closed
+May 18 20:47 : client: [12] closed
+May 18 20:47 : client: [14] closed
+May 18 20:47 : client: [15] opened from 127.0.0.1:40536
+May 18 20:47 : client: [16] opened from 127.0.0.1:40534
+May 18 20:47 : client: [17] opened from 127.0.0.1:40540
+May 18 20:47 : client: [18] opened from 127.0.0.1:40538
+May 18 20:49 : player: played "Welcome To The Black Parade - My Chemical Romance.mp3"
+May 18 20:53 : player: played "Georgia On My Mind - Ray Charles.mp3"
+May 18 20:53 : client: [19] opened from 127.0.0.1:40610
+May 18 20:53 : client: [19] closed
+May 18 20:54 : client: [20] opened from 127.0.0.1:40614
+May 18 20:54 : client: [20] closed
+May 18 20:54 : client: [21] opened from 127.0.0.1:40642
+May 18 20:54 : client: [21] closed
+May 18 21:56 : client: [22] opened from 127.0.0.1:41964
+May 18 21:56 : client: [22] closed
+May 18 21:57 : client: [23] opened from 127.0.0.1:41972
+May 18 21:57 : update: added /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 21:57 : update: added /Hold back the river - James Bay.mp3
+May 18 21:57 : update: added /Ready or Not - Bridgit Mendler .mp3
+May 18 21:57 : update: added /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 21:57 : update: added /Let it Go - James Bay.mp3
+May 18 21:57 : update: added /7 Years - Lukas Graham.mp3
+May 18 21:57 : update: added /Slow Dancing In a Burning Room- John Mayer.mp3
+May 18 21:57 : update: added /Ashes - Celine Dion.mp3
+May 18 21:57 : update: added /Don´t let me go - Bernhoft.mp3
+May 18 21:57 : update: added /Lost Stars - Adam Levine.mp3
+May 18 21:57 : update: added /Apologize - OneRepublic.mp3
+May 18 21:57 : update: added /How Long Will I Love You - Ellie Goulding.mp3
+May 18 21:57 : update: added /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 21:57 : update: added /5h15 - Bridgit Mendler.mp3
+May 18 21:57 : update: added /Decode - Paramore.mp3
+May 18 21:57 : update: added /Blonde - Bridgit Mendler.mp3
+May 18 21:57 : update: added /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 21:57 : update: added /Us - James Bay.mp3
+May 18 21:57 : update: added /It Runs Through Me - Tom Misch.mp3
+May 18 21:57 : update: added /Câu Hỏi - Trần Toàn.mp3
+May 18 21:57 : update: added /Cool Kids - Echosmith.mp3
+May 18 21:57 : update: added /Grow As We Go - Ben Platt.mp3
+May 18 21:57 : update: added /Bohemian Rhapsody - Queen.mp3
+May 18 21:57 : update: added /Hurricane - Bridgit Mendler.mp3
+May 18 21:58 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 21:58 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 21:58 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 21:58 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 21:58 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 21:58 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 21:58 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 21:58 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 21:58 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 21:58 : update: updating /La La Latch - Pentatonix.mp3
+May 18 21:58 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 21:58 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 21:58 : update: updating /Hold back the river - James Bay.mp3
+May 18 21:58 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 21:58 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 21:58 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 21:58 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 21:58 : update: updating /Attention - Pentatonix.mp3
+May 18 21:58 : update: updating /Let it Go - James Bay.mp3
+May 18 21:58 : update: updating /Purple Rain - Prince.mp3
+May 18 21:58 : update: updating /7 Years - Lukas Graham.mp3
+May 18 21:58 : update: updating /The A team - Ed Sheeran.mp3
+May 18 21:58 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 21:58 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 21:58 : update: updating /Lần cuối - Ngọt.mp3
+May 18 21:58 : update: updating /Slow Dancing In a Burning Room- John Mayer.mp3
+May 18 21:58 : update: updating /Ashes - Celine Dion.mp3
+May 18 21:58 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 21:58 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 21:58 : update: updating /Misery Business - Paramore.mp3
+May 18 21:58 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 21:58 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 21:58 : update: updating /Ignorance - Paramore.mp3
+May 18 21:58 : update: updating /Apologize - OneRepublic.mp3
+May 18 21:58 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 21:58 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 21:58 : update: updating /My Way - Frank Sinatra.mp3
+May 18 21:58 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 21:58 : update: updating /Hanabi - 米津玄師.mp3
+May 18 21:58 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 21:58 : update: updating /Decode - Paramore.mp3
+May 18 21:58 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 21:58 : update: updating /That's What You Get - Paramore.mp3
+May 18 21:58 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 21:58 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 21:58 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 21:58 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 21:58 : update: updating /Problem - Pentatonix.mp3
+May 18 21:58 : update: updating /Spectrum - Zedd.mp3
+May 18 21:58 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 21:58 : update: updating /Lemon - 米津玄師.mp3
+May 18 21:58 : update: updating /Still Into You - Paramore.mp3
+May 18 21:58 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 21:58 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 21:58 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 21:58 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 21:58 : update: updating /Lose Yourself - Eminem.mp3
+May 18 21:58 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 21:58 : update: updating /Hết thời - Ngọt.mp3
+May 18 21:58 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 21:58 : update: updating /Us - James Bay.mp3
+May 18 21:58 : update: updating /Sing - Pentatonix.mp3
+May 18 21:58 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 21:58 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 21:58 : update: updating /Gravity - John Mayer.mp3
+May 18 21:58 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 21:58 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 21:58 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 21:58 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 21:58 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 21:58 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 21:58 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 21:58 : update: updating /Cool Kids - Echosmith.mp3
+May 18 21:58 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 21:58 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 21:58 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 21:58 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 21:58 : update: updating /The Only Exception - Paramore.mp3
+May 18 21:58 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 21:58 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 21:58 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 21:58 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 21:58 : update: updating /瞬き - Back Number.mp3
+May 18 21:58 : update: updating /Kataomoi - Aimer.mp3
+May 18 21:58 : client: [23] closed
+May 18 21:58 : client: [24] opened from 127.0.0.1:41976
+May 18 21:59 : update: removing Slow Dancing In a Burning Room- John Mayer.mp3
+May 18 21:59 : update: added /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 21:59 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 21:59 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 21:59 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 21:59 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 21:59 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 21:59 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 21:59 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 21:59 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 21:59 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 21:59 : update: updating /La La Latch - Pentatonix.mp3
+May 18 21:59 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 21:59 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 21:59 : update: updating /Hold back the river - James Bay.mp3
+May 18 21:59 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 21:59 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 21:59 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 21:59 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 21:59 : update: updating /Attention - Pentatonix.mp3
+May 18 21:59 : update: updating /Let it Go - James Bay.mp3
+May 18 21:59 : update: updating /Purple Rain - Prince.mp3
+May 18 21:59 : update: updating /7 Years - Lukas Graham.mp3
+May 18 21:59 : update: updating /The A team - Ed Sheeran.mp3
+May 18 21:59 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 21:59 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 21:59 : update: updating /Lần cuối - Ngọt.mp3
+May 18 21:59 : update: updating /Ashes - Celine Dion.mp3
+May 18 21:59 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 21:59 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 21:59 : update: updating /Misery Business - Paramore.mp3
+May 18 21:59 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 21:59 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 21:59 : update: updating /Ignorance - Paramore.mp3
+May 18 21:59 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 21:59 : update: updating /Apologize - OneRepublic.mp3
+May 18 21:59 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 21:59 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 21:59 : update: updating /My Way - Frank Sinatra.mp3
+May 18 21:59 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 21:59 : update: updating /Hanabi - 米津玄師.mp3
+May 18 21:59 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 21:59 : update: updating /Decode - Paramore.mp3
+May 18 21:59 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 21:59 : update: updating /That's What You Get - Paramore.mp3
+May 18 21:59 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 21:59 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 21:59 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 21:59 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 21:59 : update: updating /Problem - Pentatonix.mp3
+May 18 21:59 : update: updating /Spectrum - Zedd.mp3
+May 18 21:59 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 21:59 : update: updating /Lemon - 米津玄師.mp3
+May 18 21:59 : update: updating /Still Into You - Paramore.mp3
+May 18 21:59 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 21:59 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 21:59 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 21:59 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 21:59 : update: updating /Lose Yourself - Eminem.mp3
+May 18 21:59 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 21:59 : update: updating /Hết thời - Ngọt.mp3
+May 18 21:59 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 21:59 : update: updating /Us - James Bay.mp3
+May 18 21:59 : update: updating /Sing - Pentatonix.mp3
+May 18 21:59 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 21:59 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 21:59 : update: updating /Gravity - John Mayer.mp3
+May 18 21:59 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 21:59 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 21:59 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 21:59 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 21:59 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 21:59 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 21:59 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 21:59 : update: updating /Cool Kids - Echosmith.mp3
+May 18 21:59 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 21:59 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 21:59 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 21:59 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 21:59 : update: updating /The Only Exception - Paramore.mp3
+May 18 21:59 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 21:59 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 21:59 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 21:59 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 21:59 : update: updating /瞬き - Back Number.mp3
+May 18 21:59 : update: updating /Kataomoi - Aimer.mp3
+May 18 22:00 : update: removing Apologize - OneRepublic.mp3
+May 18 22:00 : update: added /Apologize - One Republic.mp3
+May 18 22:00 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 22:00 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 22:00 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 22:00 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 22:00 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 22:00 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 22:00 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 22:00 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 22:00 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 22:00 : update: updating /La La Latch - Pentatonix.mp3
+May 18 22:00 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 22:00 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 22:00 : update: updating /Hold back the river - James Bay.mp3
+May 18 22:00 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 22:00 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 22:00 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 22:00 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 22:00 : update: updating /Attention - Pentatonix.mp3
+May 18 22:00 : update: updating /Let it Go - James Bay.mp3
+May 18 22:00 : update: updating /Purple Rain - Prince.mp3
+May 18 22:00 : update: updating /7 Years - Lukas Graham.mp3
+May 18 22:00 : update: updating /The A team - Ed Sheeran.mp3
+May 18 22:00 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 22:00 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 22:00 : update: updating /Lần cuối - Ngọt.mp3
+May 18 22:00 : update: updating /Ashes - Celine Dion.mp3
+May 18 22:00 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 22:00 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 22:00 : update: updating /Misery Business - Paramore.mp3
+May 18 22:00 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 22:00 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 22:00 : update: updating /Ignorance - Paramore.mp3
+May 18 22:00 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 22:00 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 22:00 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 22:00 : update: updating /My Way - Frank Sinatra.mp3
+May 18 22:00 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 22:00 : update: updating /Hanabi - 米津玄師.mp3
+May 18 22:00 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 22:00 : update: updating /Decode - Paramore.mp3
+May 18 22:00 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 22:00 : update: updating /That's What You Get - Paramore.mp3
+May 18 22:00 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 22:00 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 22:00 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 22:00 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 22:00 : update: updating /Problem - Pentatonix.mp3
+May 18 22:00 : update: updating /Spectrum - Zedd.mp3
+May 18 22:00 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 22:00 : update: updating /Lemon - 米津玄師.mp3
+May 18 22:00 : update: updating /Still Into You - Paramore.mp3
+May 18 22:00 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 22:00 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 22:00 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 22:00 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 22:00 : update: updating /Lose Yourself - Eminem.mp3
+May 18 22:00 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 22:00 : update: updating /Hết thời - Ngọt.mp3
+May 18 22:00 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 22:00 : update: updating /Us - James Bay.mp3
+May 18 22:00 : update: updating /Sing - Pentatonix.mp3
+May 18 22:00 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 22:00 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 22:00 : update: updating /Gravity - John Mayer.mp3
+May 18 22:00 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 22:00 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 22:00 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 22:00 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 22:00 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 22:00 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 22:00 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 22:00 : update: updating /Apologize - One Republic.mp3
+May 18 22:00 : update: updating /Cool Kids - Echosmith.mp3
+May 18 22:00 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 22:00 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 22:00 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 22:00 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 22:00 : update: updating /The Only Exception - Paramore.mp3
+May 18 22:00 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 22:00 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 22:00 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 22:00 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 22:00 : update: updating /瞬き - Back Number.mp3
+May 18 22:00 : update: updating /Kataomoi - Aimer.mp3
+May 18 22:00 : client: [24] closed
+May 18 22:02 : client: [25] opened from 127.0.0.1:42010
+May 18 22:02 : client: [25] closed
+May 18 22:43 : client: [26] opened from 127.0.0.1:42504
+May 18 22:43 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 22:43 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 22:43 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 22:43 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 22:43 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 22:43 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 22:43 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 22:43 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 22:43 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 22:43 : update: updating /La La Latch - Pentatonix.mp3
+May 18 22:43 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 22:43 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 22:43 : update: updating /Hold back the river - James Bay.mp3
+May 18 22:43 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 22:43 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 22:43 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 22:43 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 22:43 : update: updating /Attention - Pentatonix.mp3
+May 18 22:43 : update: updating /Let it Go - James Bay.mp3
+May 18 22:43 : update: updating /Purple Rain - Prince.mp3
+May 18 22:43 : update: updating /7 Years - Lukas Graham.mp3
+May 18 22:43 : update: updating /The A team - Ed Sheeran.mp3
+May 18 22:43 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 22:43 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 22:43 : update: updating /Lần cuối - Ngọt.mp3
+May 18 22:43 : update: updating /Ashes - Celine Dion.mp3
+May 18 22:43 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 22:43 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 22:43 : update: updating /Misery Business - Paramore.mp3
+May 18 22:43 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 22:43 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 22:43 : update: updating /Ignorance - Paramore.mp3
+May 18 22:43 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 22:43 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 22:43 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 22:43 : update: updating /My Way - Frank Sinatra.mp3
+May 18 22:43 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 22:43 : update: updating /Hanabi - 米津玄師.mp3
+May 18 22:43 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 22:43 : update: updating /Decode - Paramore.mp3
+May 18 22:43 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 22:43 : update: updating /That's What You Get - Paramore.mp3
+May 18 22:43 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 22:43 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 22:43 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 22:43 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 22:43 : update: updating /Problem - Pentatonix.mp3
+May 18 22:43 : update: updating /Spectrum - Zedd.mp3
+May 18 22:43 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 22:43 : update: updating /Lemon - 米津玄師.mp3
+May 18 22:43 : update: updating /Still Into You - Paramore.mp3
+May 18 22:43 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 22:43 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 22:43 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 22:43 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 22:43 : update: updating /Lose Yourself - Eminem.mp3
+May 18 22:43 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 22:43 : update: updating /Hết thời - Ngọt.mp3
+May 18 22:43 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 22:43 : update: updating /Us - James Bay.mp3
+May 18 22:43 : update: updating /Sing - Pentatonix.mp3
+May 18 22:43 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 22:43 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 22:43 : update: updating /Gravity - John Mayer.mp3
+May 18 22:43 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 22:43 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 22:43 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 22:43 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 22:43 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 22:43 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 22:43 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 22:43 : update: updating /Apologize - One Republic.mp3
+May 18 22:43 : update: updating /Cool Kids - Echosmith.mp3
+May 18 22:43 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 22:43 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 22:43 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 22:43 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 22:43 : update: updating /The Only Exception - Paramore.mp3
+May 18 22:43 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 22:43 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 22:43 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 22:43 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 22:43 : update: updating /瞬き - Back Number.mp3
+May 18 22:43 : update: updating /Kataomoi - Aimer.mp3
+May 18 22:45 : client: [26] closed
+May 18 22:45 : client: [27] opened from 127.0.0.1:42522
+May 18 22:50 : update: removing Vội Vàng - Tạ Quang Thắng.mp3
+May 18 22:50 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 22:50 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 22:50 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 22:50 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 22:50 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 22:50 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 22:50 : update: updating /La La Latch - Pentatonix.mp3
+May 18 22:50 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 22:50 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 22:50 : update: updating /Hold back the river - James Bay.mp3
+May 18 22:50 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 22:50 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 22:50 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 22:50 : update: updating /Attention - Pentatonix.mp3
+May 18 22:50 : update: updating /Let it Go - James Bay.mp3
+May 18 22:50 : update: updating /Purple Rain - Prince.mp3
+May 18 22:50 : update: updating /7 Years - Lukas Graham.mp3
+May 18 22:50 : update: updating /The A team - Ed Sheeran.mp3
+May 18 22:50 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 22:50 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 22:50 : update: updating /Lần cuối - Ngọt.mp3
+May 18 22:50 : update: updating /Ashes - Celine Dion.mp3
+May 18 22:50 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 22:50 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 22:50 : update: updating /Misery Business - Paramore.mp3
+May 18 22:50 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 22:50 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 22:50 : update: updating /Ignorance - Paramore.mp3
+May 18 22:50 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 22:50 : update: added /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 22:50 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 22:50 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 22:50 : update: updating /My Way - Frank Sinatra.mp3
+May 18 22:50 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 22:50 : update: updating /Hanabi - 米津玄師.mp3
+May 18 22:50 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 22:50 : update: updating /Decode - Paramore.mp3
+May 18 22:50 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 22:50 : update: updating /That's What You Get - Paramore.mp3
+May 18 22:50 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 22:50 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 22:50 : update: added /Kẻ Thù - Ngọt.mp3
+May 18 22:50 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 22:50 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 22:50 : update: updating /Problem - Pentatonix.mp3
+May 18 22:50 : update: updating /Spectrum - Zedd.mp3
+May 18 22:50 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 22:50 : update: updating /Lemon - 米津玄師.mp3
+May 18 22:50 : update: updating /Still Into You - Paramore.mp3
+May 18 22:50 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 22:50 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 22:50 : update: added /Chuyển Kênh - Ngọt.mp3
+May 18 22:50 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 22:50 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 22:50 : update: updating /Lose Yourself - Eminem.mp3
+May 18 22:50 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 22:50 : update: updating /Hết thời - Ngọt.mp3
+May 18 22:50 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 22:50 : update: updating /Us - James Bay.mp3
+May 18 22:50 : update: updating /Sing - Pentatonix.mp3
+May 18 22:50 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 22:50 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 22:50 : update: updating /Gravity - John Mayer.mp3
+May 18 22:50 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 22:50 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 22:50 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 22:50 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 22:50 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 22:50 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 22:50 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 22:50 : update: updating /Apologize - One Republic.mp3
+May 18 22:50 : update: updating /Cool Kids - Echosmith.mp3
+May 18 22:50 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 22:50 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 22:50 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 22:50 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 22:50 : update: updating /The Only Exception - Paramore.mp3
+May 18 22:50 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 22:50 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 22:50 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 22:50 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 22:50 : update: updating /Kataomoi - Aimer.mp3
+May 18 22:57 : update: added /Dear No One - Tori Kelly.mp3
+May 18 22:57 : update: added /Không Cần - the SHEEP.mp3
+May 18 22:57 : update: added /Một Điều Mà Anh Rất Ngại Nói Ra - Hai Sam.mp3
+May 18 22:57 : update: added /Paper Hearts - Tori Kelly.mp3
+May 18 22:57 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 22:57 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 22:57 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 22:57 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 22:57 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 22:57 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 22:57 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 22:57 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 22:57 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 22:57 : update: updating /La La Latch - Pentatonix.mp3
+May 18 22:57 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 22:57 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 22:57 : update: updating /Hold back the river - James Bay.mp3
+May 18 22:57 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 22:57 : update: updating /Dear No One - Tori Kelly.mp3
+May 18 22:57 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 22:57 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 22:57 : update: updating /Không Cần - the SHEEP.mp3
+May 18 22:57 : update: updating /Attention - Pentatonix.mp3
+May 18 22:57 : update: updating /Let it Go - James Bay.mp3
+May 18 22:57 : update: updating /Purple Rain - Prince.mp3
+May 18 22:57 : update: updating /7 Years - Lukas Graham.mp3
+May 18 22:57 : update: updating /The A team - Ed Sheeran.mp3
+May 18 22:57 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 22:57 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 22:57 : update: updating /Lần cuối - Ngọt.mp3
+May 18 22:57 : update: updating /Một Điều Mà Anh Rất Ngại Nói Ra - Hai Sam.mp3
+May 18 22:57 : update: updating /Ashes - Celine Dion.mp3
+May 18 22:57 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 22:57 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 22:57 : update: updating /Misery Business - Paramore.mp3
+May 18 22:57 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 22:57 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 22:57 : update: updating /Ignorance - Paramore.mp3
+May 18 22:57 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 22:57 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 22:57 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 22:57 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 22:57 : update: updating /My Way - Frank Sinatra.mp3
+May 18 22:57 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 22:57 : update: updating /Hanabi - 米津玄師.mp3
+May 18 22:57 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 22:57 : update: updating /Decode - Paramore.mp3
+May 18 22:57 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 22:57 : update: updating /That's What You Get - Paramore.mp3
+May 18 22:57 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 22:57 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 22:57 : update: updating /Kẻ Thù - Ngọt.mp3
+May 18 22:57 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 22:57 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 22:57 : update: updating /Problem - Pentatonix.mp3
+May 18 22:57 : update: updating /Spectrum - Zedd.mp3
+May 18 22:57 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 22:57 : update: updating /Lemon - 米津玄師.mp3
+May 18 22:57 : update: updating /Still Into You - Paramore.mp3
+May 18 22:57 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 22:57 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 22:57 : update: updating /Chuyển Kênh - Ngọt.mp3
+May 18 22:57 : update: updating /Paper Hearts - Tori Kelly.mp3
+May 18 22:57 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 22:57 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 22:57 : update: updating /Lose Yourself - Eminem.mp3
+May 18 22:57 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 22:57 : update: updating /Hết thời - Ngọt.mp3
+May 18 22:57 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 22:57 : update: updating /Us - James Bay.mp3
+May 18 22:57 : update: updating /Sing - Pentatonix.mp3
+May 18 22:57 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 22:57 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 22:57 : update: updating /Gravity - John Mayer.mp3
+May 18 22:57 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 22:57 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 22:57 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 22:57 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 22:57 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 22:57 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 22:57 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 22:57 : update: updating /Apologize - One Republic.mp3
+May 18 22:57 : update: updating /Cool Kids - Echosmith.mp3
+May 18 22:57 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 22:57 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 22:57 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 22:57 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 22:57 : update: updating /The Only Exception - Paramore.mp3
+May 18 22:57 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 22:57 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 22:57 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 22:57 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 22:57 : update: updating /瞬き - Back Number.mp3
+May 18 22:57 : update: updating /Kataomoi - Aimer.mp3
+May 18 22:59 : client: [27] closed
+May 18 23:02 : player: played "Câu Hỏi - Trần Toàn.mp3"
+May 18 23:02 : client: [28] opened from 127.0.0.1:42954
+May 18 23:02 : client: [28] closed
+May 18 23:05 : player: played "That’s Life - Frank sinatra.mp3"
+May 18 23:08 : player: played "Spectrum - Zedd.mp3"
+May 18 23:08 : client: [15] closed
+May 18 23:08 : client: [18] closed
+May 18 23:08 : client: [16] closed
+May 18 23:08 : client: [17] closed
+May 18 23:08 : client: [29] opened from 127.0.0.1:43006
+May 18 23:08 : client: [30] opened from 127.0.0.1:43008
+May 18 23:08 : client: [31] opened from 127.0.0.1:43010
+May 18 23:08 : client: [32] opened from 127.0.0.1:43012
+May 18 23:10 : client: [29] closed
+May 18 23:10 : client: [30] closed
+May 18 23:10 : client: [31] closed
+May 18 23:10 : client: [32] closed
+May 18 23:10 : client: [33] opened from 127.0.0.1:43048
+May 18 23:10 : client: [34] opened from 127.0.0.1:43050
+May 18 23:10 : client: [35] opened from 127.0.0.1:43052
+May 18 23:10 : client: [36] opened from 127.0.0.1:43054
+May 18 23:11 : client: [33] closed
+May 18 23:11 : client: [35] closed
+May 18 23:11 : client: [34] closed
+May 18 23:11 : client: [36] closed
+May 18 23:11 : client: [37] opened from 127.0.0.1:43056
+May 18 23:11 : client: [38] opened from 127.0.0.1:43058
+May 18 23:11 : client: [39] opened from 127.0.0.1:43060
+May 18 23:11 : client: [40] opened from 127.0.0.1:43062
+May 18 23:12 : player: played "Isn't She Lovely - Stevie Wonder.mp3"
+May 18 23:16 : player: played "Small Bump - Ed Sheeran.mp3"
+May 18 23:19 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 18 23:19 : client: [41] opened from 127.0.0.1:44262
+May 18 23:19 : client: [41] closed
+May 18 23:20 : client: [42] opened from 127.0.0.1:44268
+May 18 23:20 : client: [42] closed
+May 18 23:23 : player: played "Ignorance - Paramore.mp3"
+May 18 23:24 : client: [39] closed
+May 18 23:24 : client: [37] closed
+May 18 23:24 : client: [38] closed
+May 18 23:24 : client: [40] closed
+May 18 23:24 : client: [43] opened from 127.0.0.1:44288
+May 18 23:24 : client: [44] opened from 127.0.0.1:44290
+May 18 23:24 : client: [45] opened from 127.0.0.1:44292
+May 18 23:24 : client: [46] opened from 127.0.0.1:44294
+May 18 23:26 : player: played "I'm Still Standing - Elton John.mp3"
+May 18 23:26 : client: [47] opened from 127.0.0.1:44310
+May 18 23:26 : update: updating /前前前世 - RADWIMPS.mp3
+May 18 23:26 : update: updating /언젠가 알겠지 - 김수영.mp3
+May 18 23:26 : update: updating /Love Song - Sara Bareilles.mp3
+May 18 23:26 : update: updating /Do You Wanna Do Nothing With Me - Lawrence.mp3
+May 18 23:26 : update: updating /My Baby Just Cares For Me - Nina Simone.mp3
+May 18 23:26 : update: updating /Cho Tôi Đi Theo - Ngọt.mp3
+May 18 23:26 : update: updating /Do I Wanna Know - Arctic Monkeys.mp3
+May 18 23:26 : update: updating /Nếu Cuộc Đời Là Một Bộ Phim - Tạ Quang Thắng.mp3
+May 18 23:26 : update: updating /Welcome To The Black Parade - My Chemical Romance.mp3
+May 18 23:26 : update: updating /La La Latch - Pentatonix.mp3
+May 18 23:26 : update: updating /Knee Socks - Arctic Monkeys.mp3
+May 18 23:26 : update: updating /Ain't It Fun - Paramore.mp3
+May 18 23:26 : update: updating /Hold back the river - James Bay.mp3
+May 18 23:26 : update: updating /Ready or Not - Bridgit Mendler .mp3
+May 18 23:26 : update: updating /Dear No One - Tori Kelly.mp3
+May 18 23:26 : update: updating /Officially Missing You - Jayesslee.mp3
+May 18 23:26 : update: updating /Feeling Good - Nina Simone.mp3
+May 18 23:26 : update: updating /Không Cần - the SHEEP.mp3
+May 18 23:26 : update: updating /Attention - Pentatonix.mp3
+May 18 23:26 : update: updating /Let it Go - James Bay.mp3
+May 18 23:26 : update: updating /Purple Rain - Prince.mp3
+May 18 23:26 : update: updating /7 Years - Lukas Graham.mp3
+May 18 23:26 : update: updating /The A team - Ed Sheeran.mp3
+May 18 23:26 : update: updating /Small Bump - Ed Sheeran.mp3
+May 18 23:26 : update: updating /Fly me to the moon - Frank Sinatra.mp3
+May 18 23:26 : update: updating /Lần cuối - Ngọt.mp3
+May 18 23:26 : update: updating /Một Điều Mà Anh Rất Ngại Nói Ra - Hai Sam.mp3
+May 18 23:26 : update: updating /Ashes - Celine Dion.mp3
+May 18 23:26 : update: updating /Don´t let me go - Bernhoft.mp3
+May 18 23:26 : update: updating /Isn't She Lovely - Stevie Wonder.mp3
+May 18 23:26 : update: updating /Misery Business - Paramore.mp3
+May 18 23:26 : update: updating /Lost Stars - Adam Levine.mp3
+May 18 23:26 : update: updating /Holding Out For A Hero - Bonnie Tyler.mp3
+May 18 23:26 : update: updating /Ignorance - Paramore.mp3
+May 18 23:26 : update: updating /Slow Dancing In a Burning Room - John Mayer.mp3
+May 18 23:26 : update: updating /Vội Vàng - Tạ Quang Thắng.mp3
+May 18 23:26 : update: updating /How Long Will I Love You - Ellie Goulding.mp3
+May 18 23:26 : update: updating /Viết Tình Ca - Tạ Quang Thắng.mp3
+May 18 23:26 : update: updating /My Way - Frank Sinatra.mp3
+May 18 23:26 : update: updating /5h15 - Bridgit Mendler.mp3
+May 18 23:26 : update: updating /Hanabi - 米津玄師.mp3
+May 18 23:26 : update: updating /Master Blaster - Stevie Wonder.mp3
+May 18 23:26 : update: updating /Decode - Paramore.mp3
+May 18 23:26 : update: updating /R U Mine - Arctic Monkeys.mp3
+May 18 23:26 : update: updating /That's What You Get - Paramore.mp3
+May 18 23:26 : update: updating /I put a spell on you - Nina Simone.mp3
+May 18 23:26 : update: updating /Shelter - Porter Robinson & Madeon.mp3
+May 18 23:26 : update: updating /Kẻ Thù - Ngọt.mp3
+May 18 23:26 : update: updating /I'm Still Standing - Elton John.mp3
+May 18 23:26 : update: updating /L.O.V.E - Nat King Cole.mp3
+May 18 23:26 : update: updating /Problem - Pentatonix.mp3
+May 18 23:26 : update: updating /Spectrum - Zedd.mp3
+May 18 23:26 : update: updating /Blonde - Bridgit Mendler.mp3
+May 18 23:26 : update: updating /Lemon - 米津玄師.mp3
+May 18 23:26 : update: updating /Still Into You - Paramore.mp3
+May 18 23:26 : update: updating /Sir Duke - Stevie Wonder.mp3
+May 18 23:26 : update: updating /Love Will Tell Us Where to Go - Bridgit Mendler.mp3
+May 18 23:26 : update: updating /Chuyển Kênh - Ngọt.mp3
+May 18 23:26 : update: updating /Paper Hearts - Tori Kelly.mp3
+May 18 23:26 : update: updating /Summertime - Ella Fitzgerald.mp3
+May 18 23:26 : update: updating /A Higher Place - Adam Levine.mp3
+May 18 23:26 : update: updating /Lose Yourself - Eminem.mp3
+May 18 23:26 : update: updating /Rather Be - Clean Bandit.mp3
+May 18 23:26 : update: updating /Hết thời - Ngọt.mp3
+May 18 23:26 : update: updating /Superstition - Stevie Wonder.mp3
+May 18 23:26 : update: updating /Us - James Bay.mp3
+May 18 23:26 : update: updating /Sing - Pentatonix.mp3
+May 18 23:26 : update: updating /That’s Life - Frank sinatra.mp3
+May 18 23:26 : update: updating /It Runs Through Me - Tom Misch.mp3
+May 18 23:26 : update: updating /Gravity - John Mayer.mp3
+May 18 23:26 : update: updating /Need You Now - Lady Antebellum.mp3
+May 18 23:26 : update: updating /Câu Hỏi - Trần Toàn.mp3
+May 18 23:26 : update: updating /Keep Holding On - Avril Lavigne.mp3
+May 18 23:26 : update: updating /Ain't No Mountain High Enough - Marvin Gaye.mp3
+May 18 23:26 : update: updating /No One Else Like You - Adam Levine.mp3
+May 18 23:26 : update: updating /Dream A Little Dream Of Me - Louis Amstrong.mp3
+May 18 23:26 : update: updating /If I Die Young - The Band Perry.mp3
+May 18 23:26 : update: updating /Apologize - One Republic.mp3
+May 18 23:26 : update: updating /Cool Kids - Echosmith.mp3
+May 18 23:26 : update: updating /Just The Two Of Us - Bill Withers.mp3
+May 18 23:26 : update: updating /Can't Hold Us - Pentatonix.mp3
+May 18 23:26 : update: updating /Jet Lag - Simple Plan.mp3
+May 18 23:26 : update: updating /Georgia On My Mind - Ray Charles.mp3
+May 18 23:26 : update: updating /The Only Exception - Paramore.mp3
+May 18 23:26 : update: updating /Grow As We Go - Ben Platt.mp3
+May 18 23:26 : update: updating /Bohemian Rhapsody - Queen.mp3
+May 18 23:26 : update: updating /Hurricane - Bridgit Mendler.mp3
+May 18 23:26 : update: updating /It's A Man's Man's Man's World - James Brown.mp3
+May 18 23:26 : update: updating /瞬き - Back Number.mp3
+May 18 23:26 : update: updating /Kataomoi - Aimer.mp3
+May 18 23:26 : client: [47] closed
+May 18 23:29 : player: played "I put a spell on you - Nina Simone.mp3"
+May 18 23:32 : player: played "Kataomoi - Aimer.mp3"
+May 18 23:36 : player: played "Lần cuối - Ngọt.mp3"
+May 18 23:39 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 18 23:39 : client: [48] opened from 127.0.0.1:44858
+May 18 23:39 : client: [48] closed
+May 18 23:41 : client: [43] closed
+May 18 23:41 : client: [45] closed
+May 18 23:41 : client: [44] closed
+May 18 23:41 : client: [46] closed
+May 18 23:41 : client: [49] opened from 127.0.0.1:44860
+May 18 23:41 : client: [50] opened from 127.0.0.1:44862
+May 18 23:41 : client: [51] opened from 127.0.0.1:44864
+May 18 23:41 : client: [52] opened from 127.0.0.1:44866
+May 18 23:42 : client: [49] closed
+May 18 23:42 : client: [51] closed
+May 18 23:42 : client: [50] closed
+May 18 23:42 : client: [52] closed
+May 18 23:42 : client: [53] opened from 127.0.0.1:44868
+May 18 23:42 : client: [54] opened from 127.0.0.1:44870
+May 18 23:42 : client: [55] opened from 127.0.0.1:44874
+May 18 23:42 : client: [56] opened from 127.0.0.1:44876
+May 18 23:42 : client: [54] closed
+May 18 23:42 : client: [53] closed
+May 18 23:42 : client: [55] closed
+May 18 23:42 : client: [56] closed
+May 18 23:42 : client: [57] opened from 127.0.0.1:44878
+May 18 23:42 : client: [58] opened from 127.0.0.1:44880
+May 18 23:42 : client: [59] opened from 127.0.0.1:44882
+May 18 23:42 : client: [60] opened from 127.0.0.1:44884
+May 18 23:44 : player: played "前前前世 - RADWIMPS.mp3"
+May 18 23:47 : client: [59] closed
+May 18 23:47 : client: [60] closed
+May 18 23:47 : client: [57] closed
+May 18 23:47 : client: [58] closed
+May 18 23:47 : client: [61] opened from 127.0.0.1:45212
+May 18 23:47 : client: [62] opened from 127.0.0.1:45210
+May 18 23:47 : client: [63] opened from 127.0.0.1:45216
+May 18 23:47 : client: [64] opened from 127.0.0.1:45218
+May 18 23:47 : player: played "No One Else Like You - Adam Levine.mp3"
+May 18 23:47 : client: [65] opened from 127.0.0.1:45220
+May 18 23:47 : client: [65] closed
+May 18 23:48 : client: [62] closed
+May 18 23:48 : client: [64] closed
+May 18 23:48 : client: [61] closed
+May 18 23:48 : client: [63] closed
+May 18 23:48 : client: [66] opened from 127.0.0.1:45278
+May 18 23:48 : client: [67] opened from 127.0.0.1:45280
+May 18 23:48 : client: [68] opened from 127.0.0.1:45282
+May 18 23:48 : client: [69] opened from 127.0.0.1:45284
+May 18 23:54 : client: [70] opened from 127.0.0.1:45362
+May 18 23:54 : client: [70] closed
+May 18 23:59 : player: played "My Way - Frank Sinatra.mp3"
+May 19 00:03 : client: [71] opened from 127.0.0.1:45510
+May 19 00:03 : client: [71] closed
+May 19 00:12 : player: played "Love Song - Sara Bareilles.mp3"
+May 19 15:29 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:29 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 19 15:29 : client: [0] opened from 127.0.0.1:47422
+May 19 15:29 : client: [1] opened from 127.0.0.1:47420
+May 19 15:29 : client: [2] opened from 127.0.0.1:47424
+May 19 15:29 : client: [3] opened from 127.0.0.1:47426
+May 19 15:29 : client: [4] opened from 127.0.0.1:47442
+May 19 15:29 : client: [5] opened from 127.0.0.1:47444
+May 19 15:29 : client: [5] closed
+May 19 15:29 : client: [4] closed
+May 19 15:29 : client: [6] opened from 127.0.0.1:47446
+May 19 15:29 : client: [6] closed
+May 19 15:34 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+May 19 15:37 : player: played "Shelter - Porter Robinson & Madeon.mp3"
+May 19 15:41 : player: played "언젠가 알겠지 - 김수영.mp3"
+May 19 15:44 : client: [7] opened from 127.0.0.1:47636
+May 19 15:44 : client: [7] closed
+May 19 20:02 : client: [8] opened from 127.0.0.1:51102
+May 19 20:02 : client: [8] closed
+May 19 20:02 : player: played "Cho Tôi Đi Theo - Ngọt.mp3"
+May 19 20:05 : player: played "Misery Business - Paramore.mp3"
+May 19 20:05 : client: [9] opened from 127.0.0.1:51228
+May 19 20:05 : client: [9] closed
+May 19 20:09 : player: played "That's What You Get - Paramore.mp3"
+May 19 20:14 : player: played "Do I Wanna Know - Arctic Monkeys.mp3"
+May 19 20:17 : player: played "Still Into You - Paramore.mp3"
+May 19 20:20 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 19 20:23 : player: played "Spectrum - Zedd.mp3"
+May 19 20:26 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 19 20:26 : client: [10] opened from 127.0.0.1:51268
+May 19 20:26 : client: [10] closed
+May 19 20:27 : client: [11] opened from 127.0.0.1:51270
+May 19 20:27 : client: [11] closed
+May 19 20:28 : client: [12] opened from 127.0.0.1:51272
+May 19 20:28 : client: [12] closed
+May 19 20:31 : player: played "Kataomoi - Aimer.mp3"
+May 19 20:36 : player: played "Welcome To The Black Parade - My Chemical Romance.mp3"
+May 19 20:36 : client: [13] opened from 127.0.0.1:51376
+May 19 20:36 : client: [13] closed
+May 19 20:42 : player: played "Master Blaster - Stevie Wonder.mp3"
+May 19 20:44 : player: played "It's A Man's Man's Man's World - James Brown.mp3"
+May 19 20:47 : player: played "Feeling Good - Nina Simone.mp3"
+May 19 20:51 : player: played "Can't Hold Us - Pentatonix.mp3"
+May 19 20:53 : client: [14] opened from 127.0.0.1:51402
+May 19 20:53 : client: [14] closed
+May 19 20:59 : client: [15] opened from 127.0.0.1:51404
+May 19 20:59 : client: [15] closed
+May 19 21:00 : player: played "Just The Two Of Us - Bill Withers.mp3"
+May 19 21:05 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 19 21:09 : player: played "The Only Exception - Paramore.mp3"
+May 19 21:13 : player: played "If I Die Young - The Band Perry.mp3"
+May 19 21:17 : player: played "Ignorance - Paramore.mp3"
+May 19 21:19 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 19 21:23 : player: played "Ain't It Fun - Paramore.mp3"
+May 19 21:25 : player: played "Problem - Pentatonix.mp3"
+May 19 21:29 : player: played "Need You Now - Lady Antebellum.mp3"
+May 19 21:30 : client: [16] opened from 127.0.0.1:51808
+May 19 21:30 : client: [16] closed
+May 19 21:34 : client: [17] opened from 127.0.0.1:51870
+May 19 21:34 : client: [17] closed
+May 19 21:37 : player: played "I put a spell on you - Nina Simone.mp3"
+May 19 21:40 : player: played "Attention - Pentatonix.mp3"
+May 19 21:40 : client: [18] opened from 127.0.0.1:52158
+May 19 21:40 : client: [18] closed
+May 19 23:45 : player: played "Hết thời - Ngọt.mp3"
+May 22 14:37 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 14:37 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 22 14:37 : client: [0] opened from 127.0.0.1:45814
+May 22 14:37 : client: [1] opened from 127.0.0.1:45816
+May 22 14:37 : client: [2] opened from 127.0.0.1:45818
+May 22 14:37 : client: [3] opened from 127.0.0.1:45824
+May 22 14:37 : client: [4] opened from 127.0.0.1:45828
+May 22 14:37 : client: [4] closed
+May 22 14:42 : client: [5] opened from 127.0.0.1:45830
+May 22 14:42 : client: [5] closed
+May 22 14:47 : player: played "Hết thời - Ngọt.mp3"
+May 22 14:52 : player: played "Holding Out For A Hero - Bonnie Tyler.mp3"
+May 22 14:56 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+May 22 15:03 : player: played "Purple Rain - Prince.mp3"
+May 22 15:08 : player: played "Lose Yourself - Eminem.mp3"
+May 22 15:12 : player: played "Rather Be - Clean Bandit.mp3"
+May 22 15:15 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 22 15:19 : player: played "My Way - Frank Sinatra.mp3"
+May 22 15:24 : player: played "The Only Exception - Paramore.mp3"
+May 22 15:27 : player: played "Kataomoi - Aimer.mp3"
+May 22 15:30 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 22 15:34 : player: played "Câu Hỏi - Trần Toàn.mp3"
+May 22 15:37 : player: played "I put a spell on you - Nina Simone.mp3"
+May 22 15:40 : player: played "That’s Life - Frank sinatra.mp3"
+May 22 15:44 : player: played "Do I Wanna Know - Arctic Monkeys.mp3"
+May 22 15:48 : player: played "언젠가 알겠지 - 김수영.mp3"
+May 22 15:54 : player: played "Love Song - Sara Bareilles.mp3"
+May 22 15:58 : player: played "The A team - Ed Sheeran.mp3"
+May 22 16:01 : client: [6] opened from 127.0.0.1:48066
+May 22 16:01 : client: [6] closed
+May 22 19:28 : client: [3] closed
+May 22 19:28 : client: [1] closed
+May 22 19:28 : client: [0] closed
+May 22 19:28 : client: [2] closed
+May 22 19:28 : client: [7] opened from 127.0.0.1:50064
+May 22 19:28 : client: [8] opened from 127.0.0.1:50062
+May 22 19:28 : client: [9] opened from 127.0.0.1:50066
+May 22 19:28 : client: [10] opened from 127.0.0.1:50068
+May 22 22:24 : player: played "Superstition - Stevie Wonder.mp3"
+May 24 20:40 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 20:40 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 20:40 : client: [0] opened from 127.0.0.1:44730
+May 24 20:40 : client: [1] opened from 127.0.0.1:44732
+May 24 20:40 : client: [2] opened from 127.0.0.1:44736
+May 24 20:40 : client: [3] opened from 127.0.0.1:44738
+May 24 20:40 : client: [4] opened from 127.0.0.1:44742
+May 24 20:40 : client: [4] closed
+May 24 20:44 : player: played "Officially Missing You - Jayesslee.mp3"
+May 24 20:48 : client: [1] closed
+May 24 20:48 : client: [3] closed
+May 24 20:48 : client: [0] closed
+May 24 20:48 : client: [2] closed
+May 24 20:48 : client: [5] opened from 127.0.0.1:44842
+May 24 20:48 : client: [6] opened from 127.0.0.1:44844
+May 24 20:48 : client: [7] opened from 127.0.0.1:44846
+May 24 20:48 : client: [8] opened from 127.0.0.1:44848
+May 24 20:48 : client: [7] closed
+May 24 20:48 : client: [8] closed
+May 24 20:48 : client: [5] closed
+May 24 20:48 : client: [6] closed
+May 24 20:48 : client: [9] opened from 127.0.0.1:44850
+May 24 20:48 : client: [10] opened from 127.0.0.1:44852
+May 24 20:48 : client: [11] opened from 127.0.0.1:44854
+May 24 20:48 : client: [12] opened from 127.0.0.1:44856
+May 24 20:49 : player: played "My Baby Just Cares For Me - Nina Simone.mp3"
+May 24 20:49 : client: [9] closed
+May 24 20:49 : client: [10] closed
+May 24 20:49 : client: [11] closed
+May 24 20:49 : client: [12] closed
+May 24 20:49 : client: [13] opened from 127.0.0.1:44868
+May 24 20:49 : client: [14] opened from 127.0.0.1:44870
+May 24 20:49 : client: [15] opened from 127.0.0.1:44872
+May 24 20:49 : client: [16] opened from 127.0.0.1:44874
+May 24 20:50 : client: [13] closed
+May 24 20:50 : client: [15] closed
+May 24 20:50 : client: [14] closed
+May 24 20:50 : client: [16] closed
+May 24 20:50 : client: [17] opened from 127.0.0.1:44882
+May 24 20:50 : client: [18] opened from 127.0.0.1:44884
+May 24 20:50 : client: [19] opened from 127.0.0.1:44886
+May 24 20:50 : client: [20] opened from 127.0.0.1:44888
+May 24 20:51 : client: [17] closed
+May 24 20:51 : client: [19] closed
+May 24 20:51 : client: [18] closed
+May 24 20:51 : client: [20] closed
+May 24 20:51 : client: [21] opened from 127.0.0.1:44890
+May 24 20:51 : client: [22] opened from 127.0.0.1:44892
+May 24 20:51 : client: [23] opened from 127.0.0.1:44894
+May 24 20:51 : client: [24] opened from 127.0.0.1:44896
+May 24 20:51 : client: [21] closed
+May 24 20:51 : client: [23] closed
+May 24 20:51 : client: [22] closed
+May 24 20:51 : client: [24] closed
+May 24 20:51 : client: [25] opened from 127.0.0.1:44898
+May 24 20:51 : client: [26] opened from 127.0.0.1:44900
+May 24 20:51 : client: [27] opened from 127.0.0.1:44902
+May 24 20:51 : client: [28] opened from 127.0.0.1:44904
+May 24 20:52 : player: played "Sing - Pentatonix.mp3"
+May 24 20:54 : client: [26] closed
+May 24 20:54 : client: [28] closed
+May 24 20:54 : client: [25] closed
+May 24 20:54 : client: [27] closed
+May 24 20:54 : client: [29] opened from 127.0.0.1:44934
+May 24 20:54 : client: [30] opened from 127.0.0.1:44936
+May 24 20:54 : client: [31] opened from 127.0.0.1:44938
+May 24 20:54 : client: [32] opened from 127.0.0.1:44940
+May 24 20:55 : client: [29] closed
+May 24 20:55 : client: [30] closed
+May 24 20:55 : client: [31] closed
+May 24 20:55 : client: [32] closed
+May 24 20:55 : client: [33] opened from 127.0.0.1:44942
+May 24 20:55 : client: [34] opened from 127.0.0.1:44944
+May 24 20:55 : client: [35] opened from 127.0.0.1:44946
+May 24 20:55 : client: [36] opened from 127.0.0.1:44948
+May 24 20:56 : player: played "Still Into You - Paramore.mp3"
+May 24 20:56 : client: [37] opened from 127.0.0.1:44982
+May 24 20:56 : client: [37] closed
+May 24 20:56 : client: [38] opened from 127.0.0.1:44986
+May 24 20:56 : client: [38] closed
+May 24 20:57 : client: [33] closed
+May 24 20:57 : client: [34] closed
+May 24 20:57 : client: [35] closed
+May 24 20:57 : client: [36] closed
+May 24 20:57 : client: [39] opened from 127.0.0.1:44988
+May 24 20:57 : client: [40] opened from 127.0.0.1:44990
+May 24 20:57 : client: [41] opened from 127.0.0.1:44992
+May 24 20:57 : client: [42] opened from 127.0.0.1:44994
+May 24 20:58 : client: [41] closed
+May 24 20:58 : client: [39] closed
+May 24 20:58 : client: [42] closed
+May 24 20:58 : client: [40] closed
+May 24 20:58 : client: [43] opened from 127.0.0.1:45002
+May 24 20:58 : client: [44] opened from 127.0.0.1:45000
+May 24 20:58 : client: [45] opened from 127.0.0.1:45006
+May 24 20:58 : client: [46] opened from 127.0.0.1:45008
+May 24 20:59 : client: [44] closed
+May 24 20:59 : client: [46] closed
+May 24 20:59 : client: [43] closed
+May 24 20:59 : client: [45] closed
+May 24 20:59 : client: [47] opened from 127.0.0.1:45010
+May 24 20:59 : client: [48] opened from 127.0.0.1:45012
+May 24 20:59 : client: [49] opened from 127.0.0.1:45014
+May 24 20:59 : client: [50] opened from 127.0.0.1:45016
+May 24 20:59 : client: [47] closed
+May 24 20:59 : client: [48] closed
+May 24 20:59 : client: [49] closed
+May 24 20:59 : client: [50] closed
+May 24 20:59 : client: [51] opened from 127.0.0.1:45018
+May 24 20:59 : client: [52] opened from 127.0.0.1:45020
+May 24 20:59 : client: [53] opened from 127.0.0.1:45022
+May 24 20:59 : client: [54] opened from 127.0.0.1:45024
+May 24 21:00 : client: [52] closed
+May 24 21:00 : client: [54] closed
+May 24 21:00 : client: [51] closed
+May 24 21:00 : client: [53] closed
+May 24 21:00 : client: [55] opened from 127.0.0.1:45026
+May 24 21:00 : client: [56] opened from 127.0.0.1:45028
+May 24 21:00 : client: [57] opened from 127.0.0.1:45030
+May 24 21:00 : client: [58] opened from 127.0.0.1:45032
+May 24 21:01 : client: [55] closed
+May 24 21:01 : client: [56] closed
+May 24 21:01 : client: [58] closed
+May 24 21:01 : client: [57] closed
+May 24 21:01 : client: [59] opened from 127.0.0.1:45034
+May 24 21:01 : client: [60] opened from 127.0.0.1:45036
+May 24 21:01 : client: [61] opened from 127.0.0.1:45040
+May 24 21:01 : client: [62] opened from 127.0.0.1:45042
+May 24 21:01 : client: [60] closed
+May 24 21:01 : client: [59] closed
+May 24 21:01 : client: [61] closed
+May 24 21:01 : client: [62] closed
+May 24 21:01 : client: [63] opened from 127.0.0.1:45044
+May 24 21:01 : client: [64] opened from 127.0.0.1:45046
+May 24 21:01 : client: [65] opened from 127.0.0.1:45048
+May 24 21:01 : client: [66] opened from 127.0.0.1:45050
+May 24 21:02 : player: played "Lose Yourself - Eminem.mp3"
+May 24 21:02 : client: [63] closed
+May 24 21:02 : client: [64] closed
+May 24 21:02 : client: [65] closed
+May 24 21:02 : client: [66] closed
+May 24 21:02 : client: [67] opened from 127.0.0.1:45058
+May 24 21:02 : client: [68] opened from 127.0.0.1:45060
+May 24 21:02 : client: [69] opened from 127.0.0.1:45064
+May 24 21:02 : client: [70] opened from 127.0.0.1:45066
+May 24 21:04 : client: [68] closed
+May 24 21:04 : client: [67] closed
+May 24 21:04 : client: [69] closed
+May 24 21:04 : client: [70] closed
+May 24 21:04 : client: [71] opened from 127.0.0.1:45152
+May 24 21:04 : client: [72] opened from 127.0.0.1:45154
+May 24 21:04 : client: [73] opened from 127.0.0.1:45156
+May 24 21:04 : client: [74] opened from 127.0.0.1:45158
+May 24 21:05 : player: played "That’s Life - Frank sinatra.mp3"
+May 24 21:06 : client: [71] closed
+May 24 21:06 : client: [73] closed
+May 24 21:06 : client: [72] closed
+May 24 21:06 : client: [74] closed
+May 24 21:06 : client: [75] opened from 127.0.0.1:45180
+May 24 21:06 : client: [76] opened from 127.0.0.1:45182
+May 24 21:08 : client: [75] closed
+May 24 21:08 : client: [76] closed
+May 24 21:08 : client: [77] opened from 127.0.0.1:45186
+May 24 21:08 : client: [78] opened from 127.0.0.1:45188
+May 24 21:08 : client: [79] opened from 127.0.0.1:45190
+May 24 21:08 : client: [80] opened from 127.0.0.1:45192
+May 24 21:09 : player: played "Do I Wanna Know - Arctic Monkeys.mp3"
+May 24 21:10 : client: [77] closed
+May 24 21:10 : client: [78] closed
+May 24 21:10 : client: [79] closed
+May 24 21:10 : client: [80] closed
+May 24 21:10 : client: [81] opened from 127.0.0.1:45222
+May 24 21:10 : client: [82] opened from 127.0.0.1:45224
+May 24 21:10 : client: [83] opened from 127.0.0.1:45226
+May 24 21:10 : client: [84] opened from 127.0.0.1:45228
+May 24 21:10 : client: [83] closed
+May 24 21:10 : client: [81] closed
+May 24 21:10 : client: [84] closed
+May 24 21:10 : client: [82] closed
+May 24 21:10 : client: [85] opened from 127.0.0.1:45260
+May 24 21:10 : client: [86] opened from 127.0.0.1:45262
+May 24 21:10 : client: [87] opened from 127.0.0.1:45264
+May 24 21:10 : client: [88] opened from 127.0.0.1:45266
+May 24 21:10 : client: [87] closed
+May 24 21:10 : client: [85] closed
+May 24 21:10 : client: [86] closed
+May 24 21:10 : client: [88] closed
+May 24 21:10 : client: [89] opened from 127.0.0.1:45268
+May 24 21:10 : client: [90] opened from 127.0.0.1:45270
+May 24 21:10 : client: [91] opened from 127.0.0.1:45272
+May 24 21:10 : client: [92] opened from 127.0.0.1:45274
+May 24 21:11 : client: [89] closed
+May 24 21:11 : client: [91] closed
+May 24 21:11 : client: [90] closed
+May 24 21:11 : client: [92] closed
+May 24 21:11 : client: [93] opened from 127.0.0.1:45276
+May 24 21:11 : client: [94] opened from 127.0.0.1:45278
+May 24 21:11 : client: [95] opened from 127.0.0.1:45280
+May 24 21:11 : client: [96] opened from 127.0.0.1:45282
+May 24 21:12 : client: [93] closed
+May 24 21:12 : client: [94] closed
+May 24 21:12 : client: [95] closed
+May 24 21:12 : client: [96] closed
+May 24 21:12 : client: [97] opened from 127.0.0.1:45284
+May 24 21:12 : client: [98] opened from 127.0.0.1:45286
+May 24 21:12 : client: [99] opened from 127.0.0.1:45288
+May 24 21:12 : client: [100] opened from 127.0.0.1:45290
+May 24 21:12 : client: [97] closed
+May 24 21:12 : client: [98] closed
+May 24 21:12 : client: [99] closed
+May 24 21:12 : client: [100] closed
+May 24 21:12 : client: [101] opened from 127.0.0.1:45292
+May 24 21:12 : client: [102] opened from 127.0.0.1:45294
+May 24 21:12 : client: [103] opened from 127.0.0.1:45296
+May 24 21:12 : client: [104] opened from 127.0.0.1:45298
+May 24 21:12 : player: played "Can't Hold Us - Pentatonix.mp3"
+May 24 21:13 : client: [103] closed
+May 24 21:13 : client: [104] closed
+May 24 21:13 : client: [101] closed
+May 24 21:13 : client: [102] closed
+May 24 21:13 : client: [105] opened from 127.0.0.1:45302
+May 24 21:13 : client: [106] opened from 127.0.0.1:45304
+May 24 21:13 : client: [107] opened from 127.0.0.1:45306
+May 24 21:13 : client: [108] opened from 127.0.0.1:45308
+May 24 21:16 : player: played "Just The Two Of Us - Bill Withers.mp3"
+May 24 21:19 : client: [105] closed
+May 24 21:19 : client: [106] closed
+May 24 21:19 : client: [107] closed
+May 24 21:19 : client: [108] closed
+May 24 21:19 : client: [109] opened from 127.0.0.1:45830
+May 24 21:19 : client: [110] opened from 127.0.0.1:45832
+May 24 21:19 : client: [111] opened from 127.0.0.1:45836
+May 24 21:19 : client: [112] opened from 127.0.0.1:45838
+May 24 21:20 : player: played "Misery Business - Paramore.mp3"
+May 24 21:20 : client: [113] opened from 127.0.0.1:45984
+May 24 21:20 : client: [113] closed
+May 24 21:21 : client: [114] opened from 127.0.0.1:45990
+May 24 21:21 : client: [114] closed
+May 24 21:25 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+May 24 21:27 : player: played "Attention - Pentatonix.mp3"
+May 24 21:31 : player: played "Georgia On My Mind - Ray Charles.mp3"
+May 24 21:33 : client: [109] closed
+May 24 21:33 : client: [111] closed
+May 24 21:33 : client: [110] closed
+May 24 21:33 : client: [112] closed
+May 24 21:33 : client: [115] opened from 127.0.0.1:46526
+May 24 21:33 : client: [116] opened from 127.0.0.1:46528
+May 24 21:33 : client: [117] opened from 127.0.0.1:46530
+May 24 21:33 : client: [118] opened from 127.0.0.1:46532
+May 24 21:34 : client: [116] closed
+May 24 21:34 : client: [115] closed
+May 24 21:34 : client: [118] closed
+May 24 21:34 : client: [117] closed
+May 24 21:34 : client: [119] opened from 127.0.0.1:46534
+May 24 21:34 : client: [120] opened from 127.0.0.1:46536
+May 24 21:34 : client: [121] opened from 127.0.0.1:46540
+May 24 21:34 : client: [122] opened from 127.0.0.1:46542
+May 24 21:35 : player: played "언젠가 알겠지 - 김수영.mp3"
+May 24 21:36 : client: [120] closed
+May 24 21:36 : client: [119] closed
+May 24 21:36 : client: [121] closed
+May 24 21:36 : client: [122] closed
+May 24 21:36 : client: [123] opened from 127.0.0.1:46544
+May 24 21:36 : client: [124] opened from 127.0.0.1:46546
+May 24 21:36 : client: [125] opened from 127.0.0.1:46548
+May 24 21:36 : client: [126] opened from 127.0.0.1:46550
+May 24 21:36 : client: [123] closed
+May 24 21:36 : client: [126] closed
+May 24 21:36 : client: [124] closed
+May 24 21:36 : client: [125] closed
+May 24 21:36 : client: [127] opened from 127.0.0.1:46554
+May 24 21:36 : client: [128] opened from 127.0.0.1:46552
+May 24 21:36 : client: [129] opened from 127.0.0.1:46556
+May 24 21:36 : client: [130] opened from 127.0.0.1:46558
+May 24 21:38 : player: played "Problem - Pentatonix.mp3"
+May 24 21:39 : client: [128] closed
+May 24 21:39 : client: [130] closed
+May 24 21:39 : client: [127] closed
+May 24 21:39 : client: [129] closed
+May 24 21:39 : client: [131] opened from 127.0.0.1:46662
+May 24 21:39 : client: [132] opened from 127.0.0.1:46660
+May 24 21:39 : client: [133] opened from 127.0.0.1:46666
+May 24 21:39 : client: [134] opened from 127.0.0.1:46668
+May 24 21:39 : client: [131] closed
+May 24 21:39 : client: [132] closed
+May 24 21:39 : client: [133] closed
+May 24 21:39 : client: [134] closed
+May 24 21:39 : client: [135] opened from 127.0.0.1:46670
+May 24 21:39 : client: [136] opened from 127.0.0.1:46672
+May 24 21:39 : client: [137] opened from 127.0.0.1:46674
+May 24 21:39 : client: [138] opened from 127.0.0.1:46676
+May 24 21:40 : client: [136] closed
+May 24 21:40 : client: [135] closed
+May 24 21:40 : client: [137] closed
+May 24 21:40 : client: [138] closed
+May 24 21:40 : client: [139] opened from 127.0.0.1:46686
+May 24 21:40 : client: [140] opened from 127.0.0.1:46684
+May 24 21:40 : client: [141] opened from 127.0.0.1:46688
+May 24 21:40 : client: [142] opened from 127.0.0.1:46690
+May 24 21:41 : player: played "That's What You Get - Paramore.mp3"
+May 24 21:43 : client: [143] opened from 127.0.0.1:46880
+May 24 21:43 : client: [143] closed
+May 24 21:44 : client: [144] opened from 127.0.0.1:46914
+May 24 21:44 : client: [144] closed
+May 24 21:45 : player: played "It's A Man's Man's Man's World - James Brown.mp3"
+May 24 21:46 : client: [140] closed
+May 24 21:46 : client: [142] closed
+May 24 21:46 : client: [139] closed
+May 24 21:46 : client: [141] closed
+May 24 21:46 : client: [145] opened from 127.0.0.1:47140
+May 24 21:46 : client: [146] opened from 127.0.0.1:47138
+May 24 21:46 : client: [147] opened from 127.0.0.1:47144
+May 24 21:46 : client: [148] opened from 127.0.0.1:47146
+May 24 21:47 : client: [146] closed
+May 24 21:47 : client: [148] closed
+May 24 21:47 : client: [145] closed
+May 24 21:47 : client: [147] closed
+May 24 21:47 : client: [149] opened from 127.0.0.1:47150
+May 24 21:47 : client: [150] opened from 127.0.0.1:47152
+May 24 21:47 : client: [151] opened from 127.0.0.1:47154
+May 24 21:47 : client: [152] opened from 127.0.0.1:47156
+May 24 21:48 : player: played "Isn't She Lovely - Stevie Wonder.mp3"
+May 24 21:49 : client: [150] closed
+May 24 21:49 : client: [149] closed
+May 24 21:49 : client: [151] closed
+May 24 21:49 : client: [152] closed
+May 24 21:49 : client: [153] opened from 127.0.0.1:47272
+May 24 21:49 : client: [154] opened from 127.0.0.1:47274
+May 24 21:49 : client: [155] opened from 127.0.0.1:47276
+May 24 21:49 : client: [156] opened from 127.0.0.1:47278
+May 24 21:50 : client: [154] closed
+May 24 21:50 : client: [156] closed
+May 24 21:50 : client: [153] closed
+May 24 21:50 : client: [155] closed
+May 24 21:50 : client: [157] opened from 127.0.0.1:47282
+May 24 21:50 : client: [158] opened from 127.0.0.1:47280
+May 24 21:50 : client: [159] opened from 127.0.0.1:47284
+May 24 21:50 : client: [160] opened from 127.0.0.1:47286
+May 24 21:50 : client: [158] closed
+May 24 21:50 : client: [160] closed
+May 24 21:50 : client: [157] closed
+May 24 21:50 : client: [159] closed
+May 24 21:50 : client: [161] opened from 127.0.0.1:47288
+May 24 21:50 : client: [162] opened from 127.0.0.1:47290
+May 24 21:50 : client: [163] opened from 127.0.0.1:47292
+May 24 21:50 : client: [164] opened from 127.0.0.1:47294
+May 24 21:52 : client: [163] closed
+May 24 21:52 : client: [164] closed
+May 24 21:52 : client: [161] closed
+May 24 21:52 : client: [162] closed
+May 24 21:52 : client: [165] opened from 127.0.0.1:47296
+May 24 21:52 : client: [166] opened from 127.0.0.1:47298
+May 24 21:52 : client: [167] opened from 127.0.0.1:47300
+May 24 21:52 : client: [168] opened from 127.0.0.1:47302
+May 24 21:53 : client: [165] closed
+May 24 21:53 : client: [166] closed
+May 24 21:53 : client: [167] closed
+May 24 21:53 : client: [168] closed
+May 24 21:53 : client: [169] opened from 127.0.0.1:47304
+May 24 21:53 : client: [170] opened from 127.0.0.1:47306
+May 24 21:53 : client: [171] opened from 127.0.0.1:47308
+May 24 21:53 : client: [172] opened from 127.0.0.1:47310
+May 24 21:54 : player: played "Welcome To The Black Parade - My Chemical Romance.mp3"
+May 24 21:55 : client: [169] closed
+May 24 21:55 : client: [171] closed
+May 24 21:55 : client: [170] closed
+May 24 21:55 : client: [172] closed
+May 24 21:55 : client: [173] opened from 127.0.0.1:47312
+May 24 21:55 : client: [174] opened from 127.0.0.1:47314
+May 24 21:55 : client: [175] opened from 127.0.0.1:47316
+May 24 21:55 : client: [176] opened from 127.0.0.1:47318
+May 24 21:58 : player: played "Rather Be - Clean Bandit.mp3"
+May 24 21:58 : client: [173] closed
+May 24 21:58 : client: [174] closed
+May 24 21:58 : client: [175] closed
+May 24 21:58 : client: [176] closed
+May 24 21:58 : client: [177] opened from 127.0.0.1:47322
+May 24 21:58 : client: [178] opened from 127.0.0.1:47320
+May 24 21:58 : client: [179] opened from 127.0.0.1:47326
+May 24 21:58 : client: [180] opened from 127.0.0.1:47328
+May 24 21:59 : client: [177] closed
+May 24 21:59 : client: [178] closed
+May 24 21:59 : client: [179] closed
+May 24 21:59 : client: [180] closed
+May 24 21:59 : client: [181] opened from 127.0.0.1:47330
+May 24 21:59 : client: [182] opened from 127.0.0.1:47332
+May 24 21:59 : client: [183] opened from 127.0.0.1:47334
+May 24 21:59 : client: [184] opened from 127.0.0.1:47336
+May 24 22:01 : client: [182] closed
+May 24 22:01 : client: [184] closed
+May 24 22:01 : client: [181] closed
+May 24 22:01 : client: [183] closed
+May 24 22:01 : player: played "La La Latch - Pentatonix.mp3"
+May 24 22:06 : player: played "My Way - Frank Sinatra.mp3"
+May 24 22:09 : player: played "I put a spell on you - Nina Simone.mp3"
+May 24 22:11 : player: played "Fly me to the moon - Frank Sinatra.mp3"
+May 24 22:15 : player: played "Sir Duke - Stevie Wonder.mp3"
+May 24 22:19 : player: played "Kataomoi - Aimer.mp3"
+May 24 22:21 : client: [185] opened from 127.0.0.1:47478
+May 24 22:22 : client: [185] closed
+May 24 22:22 : client: [186] opened from 127.0.0.1:47486
+May 24 22:22 : client: [187] opened from 127.0.0.1:47488
+May 24 22:22 : client: [188] opened from 127.0.0.1:47490
+May 24 22:22 : client: [189] opened from 127.0.0.1:47492
+May 24 22:23 : client: [186] closed
+May 24 22:23 : client: [187] closed
+May 24 22:23 : client: [188] closed
+May 24 22:23 : client: [189] closed
+May 24 22:23 : client: [190] opened from 127.0.0.1:47494
+May 24 22:23 : client: [191] opened from 127.0.0.1:47496
+May 24 22:23 : client: [192] opened from 127.0.0.1:47498
+May 24 22:23 : client: [193] opened from 127.0.0.1:47500
+May 24 22:23 : client: [191] closed
+May 24 22:23 : client: [193] closed
+May 24 22:23 : client: [190] closed
+May 24 22:23 : client: [192] closed
+May 24 22:23 : client: [194] opened from 127.0.0.1:47502
+May 24 22:23 : client: [195] opened from 127.0.0.1:47504
+May 24 22:23 : client: [196] opened from 127.0.0.1:47506
+May 24 22:23 : client: [197] opened from 127.0.0.1:47508
+May 24 22:23 : client: [195] closed
+May 24 22:23 : client: [197] closed
+May 24 22:23 : client: [194] closed
+May 24 22:23 : client: [196] closed
+May 24 22:23 : client: [198] opened from 127.0.0.1:47510
+May 24 22:23 : client: [199] opened from 127.0.0.1:47512
+May 24 22:23 : client: [200] opened from 127.0.0.1:47516
+May 24 22:23 : client: [201] opened from 127.0.0.1:47518
+May 24 22:24 : player: played "Câu Hỏi - Trần Toàn.mp3"
+May 24 22:24 : client: [198] closed
+May 24 22:24 : client: [200] closed
+May 24 22:24 : client: [199] closed
+May 24 22:24 : client: [201] closed
+May 24 22:24 : client: [202] opened from 127.0.0.1:47520
+May 24 22:24 : client: [203] opened from 127.0.0.1:47522
+May 24 22:24 : client: [204] opened from 127.0.0.1:47524
+May 24 22:24 : client: [205] opened from 127.0.0.1:47526
+May 24 22:25 : client: [202] closed
+May 24 22:25 : client: [204] closed
+May 24 22:25 : client: [203] closed
+May 24 22:25 : client: [205] closed
+May 24 22:25 : client: [206] opened from 127.0.0.1:47528
+May 24 22:25 : client: [207] opened from 127.0.0.1:47530
+May 24 22:25 : client: [208] opened from 127.0.0.1:47532
+May 24 22:25 : client: [209] opened from 127.0.0.1:47534
+May 24 22:25 : client: [208] closed
+May 24 22:25 : client: [206] closed
+May 24 22:25 : client: [209] closed
+May 24 22:25 : client: [207] closed
+May 24 22:25 : client: [210] opened from 127.0.0.1:47536
+May 24 22:25 : client: [211] opened from 127.0.0.1:47538
+May 24 22:25 : client: [212] opened from 127.0.0.1:47540
+May 24 22:25 : client: [213] opened from 127.0.0.1:47542
+May 24 22:26 : client: [212] closed
+May 24 22:26 : client: [213] closed
+May 24 22:26 : client: [210] closed
+May 24 22:26 : client: [211] closed
+May 24 22:26 : client: [214] opened from 127.0.0.1:47544
+May 24 22:26 : client: [215] opened from 127.0.0.1:47546
+May 24 22:26 : client: [216] opened from 127.0.0.1:47548
+May 24 22:26 : client: [217] opened from 127.0.0.1:47550
+May 24 22:28 : client: [216] closed
+May 24 22:28 : client: [217] closed
+May 24 22:28 : client: [214] closed
+May 24 22:28 : client: [215] closed
+May 24 22:28 : client: [218] opened from 127.0.0.1:47552
+May 24 22:28 : client: [219] opened from 127.0.0.1:47554
+May 24 22:28 : client: [220] opened from 127.0.0.1:47556
+May 24 22:28 : client: [221] opened from 127.0.0.1:47558
+May 24 22:28 : player: played "Lần cuối - Ngọt.mp3"
+May 24 22:28 : client: [218] closed
+May 24 22:28 : client: [220] closed
+May 24 22:28 : client: [219] closed
+May 24 22:28 : client: [221] closed
+May 24 22:28 : client: [222] opened from 127.0.0.1:47562
+May 24 22:28 : client: [223] opened from 127.0.0.1:47560
+May 24 22:28 : client: [224] opened from 127.0.0.1:47566
+May 24 22:28 : client: [225] opened from 127.0.0.1:47568
+May 24 22:29 : client: [222] closed
+May 24 22:29 : client: [224] closed
+May 24 22:29 : client: [223] closed
+May 24 22:29 : client: [225] closed
+May 24 22:29 : client: [226] opened from 127.0.0.1:47582
+May 24 22:29 : client: [227] opened from 127.0.0.1:47584
+May 24 22:29 : client: [228] opened from 127.0.0.1:47586
+May 24 22:29 : client: [229] opened from 127.0.0.1:47588
+May 24 22:29 : client: [226] closed
+May 24 22:29 : client: [227] closed
+May 24 22:29 : client: [228] closed
+May 24 22:29 : client: [229] closed
+May 24 22:29 : client: [230] opened from 127.0.0.1:47590
+May 24 22:29 : client: [231] opened from 127.0.0.1:47592
+May 24 22:29 : client: [232] opened from 127.0.0.1:47594
+May 24 22:29 : client: [233] opened from 127.0.0.1:47596
+May 24 22:29 : client: [230] closed
+May 24 22:29 : client: [232] closed
+May 24 22:29 : client: [231] closed
+May 24 22:29 : client: [233] closed
+May 24 22:29 : client: [234] opened from 127.0.0.1:47600
+May 24 22:29 : client: [235] opened from 127.0.0.1:47598
+May 24 22:29 : client: [236] opened from 127.0.0.1:47604
+May 24 22:29 : client: [237] opened from 127.0.0.1:47606
+May 24 22:29 : client: [234] closed
+May 24 22:29 : client: [236] closed
+May 24 22:29 : client: [235] closed
+May 24 22:29 : client: [237] closed
+May 24 22:29 : client: [238] opened from 127.0.0.1:47612
+May 24 22:29 : client: [239] opened from 127.0.0.1:47614
+May 24 22:29 : client: [240] opened from 127.0.0.1:47616
+May 24 22:29 : client: [241] opened from 127.0.0.1:47618
+May 24 22:30 : client: [238] closed
+May 24 22:30 : client: [239] closed
+May 24 22:30 : client: [240] closed
+May 24 22:30 : client: [241] closed
+May 24 22:30 : client: [242] opened from 127.0.0.1:47620
+May 24 22:30 : client: [243] opened from 127.0.0.1:47622
+May 24 22:30 : client: [244] opened from 127.0.0.1:47624
+May 24 22:30 : client: [245] opened from 127.0.0.1:47626
+May 24 22:30 : client: [242] closed
+May 24 22:30 : client: [244] closed
+May 24 22:30 : client: [243] closed
+May 24 22:30 : client: [245] closed
+May 24 22:30 : client: [246] opened from 127.0.0.1:47630
+May 24 22:30 : client: [247] opened from 127.0.0.1:47628
+May 24 22:30 : client: [248] opened from 127.0.0.1:47634
+May 24 22:30 : client: [249] opened from 127.0.0.1:47636
+May 24 22:30 : client: [250] opened from 127.0.0.1:47638
+May 24 22:30 : client: [250] closed
+May 24 22:30 : client: [251] opened from 127.0.0.1:47640
+May 24 22:30 : client: [251] closed
+May 24 22:31 : client: [247] closed
+May 24 22:31 : client: [246] closed
+May 24 22:31 : client: [248] closed
+May 24 22:31 : client: [249] closed
+May 24 22:31 : client: [252] opened from 127.0.0.1:47642
+May 24 22:31 : client: [253] opened from 127.0.0.1:47644
+May 24 22:31 : client: [254] opened from 127.0.0.1:47648
+May 24 22:31 : client: [255] opened from 127.0.0.1:47650
+May 24 22:31 : client: [252] closed
+May 24 22:31 : client: [254] closed
+May 24 22:31 : client: [253] closed
+May 24 22:31 : client: [255] closed
+May 24 22:31 : client: [256] opened from 127.0.0.1:47654
+May 24 22:31 : client: [257] opened from 127.0.0.1:47652
+May 24 22:31 : client: [258] opened from 127.0.0.1:47658
+May 24 22:31 : client: [259] opened from 127.0.0.1:47660
+May 24 22:31 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 24 22:32 : client: [256] closed
+May 24 22:32 : client: [258] closed
+May 24 22:32 : client: [257] closed
+May 24 22:32 : client: [259] closed
+May 24 22:32 : client: [260] opened from 127.0.0.1:47662
+May 24 22:32 : client: [261] opened from 127.0.0.1:47664
+May 24 22:32 : client: [262] opened from 127.0.0.1:47666
+May 24 22:32 : client: [263] opened from 127.0.0.1:47668
+May 24 22:32 : client: [264] opened from 127.0.0.1:47670
+May 24 22:32 : client: [265] opened from 127.0.0.1:47672
+May 24 22:32 : client: [266] opened from 127.0.0.1:47674
+May 24 22:32 : client: [266] closed
+May 24 22:32 : client: [267] opened from 127.0.0.1:47676
+May 24 22:32 : client: [267] closed
+May 24 22:32 : client: [260] closed
+May 24 22:32 : client: [261] closed
+May 24 22:32 : client: [262] closed
+May 24 22:32 : client: [263] closed
+May 24 22:32 : client: [264] closed
+May 24 22:32 : client: [265] closed
+May 24 22:32 : client: [268] opened from 127.0.0.1:47678
+May 24 22:32 : client: [269] opened from 127.0.0.1:47680
+May 24 22:32 : client: [270] opened from 127.0.0.1:47684
+May 24 22:32 : client: [271] opened from 127.0.0.1:47686
+May 24 22:35 : player: played "Need You Now - Lady Antebellum.mp3"
+May 24 22:37 : client: [268] closed
+May 24 22:37 : client: [270] closed
+May 24 22:37 : client: [269] closed
+May 24 22:37 : client: [271] closed
+May 24 22:37 : client: [272] opened from 127.0.0.1:47816
+May 24 22:37 : client: [273] opened from 127.0.0.1:47818
+May 24 22:37 : client: [274] opened from 127.0.0.1:47822
+May 24 22:37 : client: [275] opened from 127.0.0.1:47824
+May 24 22:37 : client: [272] closed
+May 24 22:37 : client: [274] closed
+May 24 22:37 : client: [273] closed
+May 24 22:37 : client: [275] closed
+May 24 22:38 : client: [276] opened from 127.0.0.1:47830
+May 24 22:38 : client: [277] opened from 127.0.0.1:47828
+May 24 22:38 : client: [278] opened from 127.0.0.1:47834
+May 24 22:38 : client: [279] opened from 127.0.0.1:47832
+May 24 22:39 : client: [280] opened from 127.0.0.1:48020
+May 24 22:40 : update: removing Love Song - Sara Bareilles.mp3
+May 24 22:40 : client: [280] closed
+May 24 22:41 : client: [277] closed
+May 24 22:41 : client: [276] closed
+May 24 22:41 : client: [278] closed
+May 24 22:41 : client: [279] closed
+May 24 22:42 : client: [281] opened from 127.0.0.1:48074
+May 24 22:42 : client: [282] opened from 127.0.0.1:48076
+May 24 22:42 : client: [283] opened from 127.0.0.1:48078
+May 24 22:42 : client: [284] opened from 127.0.0.1:48080
+May 24 22:44 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 24 22:44 : client: [283] closed
+May 24 22:44 : client: [281] closed
+May 24 22:44 : client: [284] closed
+May 24 22:44 : client: [282] closed
+May 24 22:44 : client: [285] opened from 127.0.0.1:48236
+May 24 22:44 : client: [286] opened from 127.0.0.1:48234
+May 24 22:44 : client: [287] opened from 127.0.0.1:48240
+May 24 22:44 : client: [288] opened from 127.0.0.1:48242
+May 24 22:45 : client: [289] opened from 127.0.0.1:48244
+May 24 22:45 : client: [289] closed
+May 24 22:46 : client: [290] opened from 127.0.0.1:48246
+May 24 22:46 : client: [290] closed
+May 24 22:46 : client: [291] opened from 127.0.0.1:48248
+May 24 22:46 : client: [291] closed
+May 24 22:46 : client: [292] opened from 127.0.0.1:48250
+May 24 22:46 : client: [292] closed
+May 24 22:48 : player: played "No One Else Like You - Adam Levine.mp3"
+May 24 22:49 : client: [285] closed
+May 24 22:49 : client: [288] closed
+May 24 22:49 : client: [286] closed
+May 24 22:49 : client: [287] closed
+May 24 22:49 : client: [293] opened from 127.0.0.1:48340
+May 24 22:49 : client: [294] opened from 127.0.0.1:48342
+May 24 22:49 : client: [295] opened from 127.0.0.1:48348
+May 24 22:49 : client: [296] opened from 127.0.0.1:48346
+May 24 22:50 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 24 22:50 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 22:50 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 24 22:50 : client: [0] opened from 127.0.0.1:48438
+May 24 22:50 : client: [1] opened from 127.0.0.1:48432
+May 24 22:50 : client: [2] opened from 127.0.0.1:48436
+May 24 22:50 : client: [3] opened from 127.0.0.1:48434
+May 24 22:51 : player: played "L.O.V.E - Nat King Cole.mp3"
+May 24 22:54 : player: played "Can't Hold Us - Pentatonix.mp3"
+May 24 22:58 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 24 23:02 : player: played "Do I Wanna Know - Arctic Monkeys.mp3"
+May 24 23:06 : player: played "Misery Business - Paramore.mp3"
+May 24 23:06 : client: [3] closed
+May 24 23:06 : client: [1] closed
+May 24 23:06 : client: [2] closed
+May 24 23:06 : client: [0] closed
+May 24 23:06 : client: [4] opened from 127.0.0.1:48762
+May 24 23:06 : client: [5] opened from 127.0.0.1:48760
+May 24 23:06 : client: [6] opened from 127.0.0.1:48766
+May 24 23:06 : client: [7] opened from 127.0.0.1:48768
+May 24 23:09 : player: played "Sing - Pentatonix.mp3"
+May 24 23:13 : player: played "Holding Out For A Hero - Bonnie Tyler.mp3"
+May 24 23:17 : player: played "Ignorance - Paramore.mp3"
+May 24 23:17 : client: [8] opened from 127.0.0.1:48910
+May 24 23:17 : client: [8] closed
+May 24 23:22 : client: [9] opened from 127.0.0.1:48932
+May 24 23:22 : client: [9] closed
+May 24 23:26 : player: played "Superstition - Stevie Wonder.mp3"
+May 24 23:30 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 24 23:34 : player: played "Rather Be - Clean Bandit.mp3"
+May 24 23:37 : player: played "Spectrum - Zedd.mp3"
+May 24 23:39 : client: [10] opened from 127.0.0.1:49844
+May 24 23:39 : client: [10] closed
+May 24 23:39 : client: [11] opened from 127.0.0.1:49852
+May 24 23:39 : client: [11] closed
+May 24 23:42 : player: played "Need You Now - Lady Antebellum.mp3"
+May 24 23:45 : player: played "Feeling Good - Nina Simone.mp3"
+May 24 23:49 : player: played "The A team - Ed Sheeran.mp3"
+May 24 23:51 : client: [4] closed
+May 24 23:51 : client: [6] closed
+May 24 23:51 : client: [5] closed
+May 24 23:51 : client: [7] closed
+May 24 23:51 : client: [12] opened from 127.0.0.1:49930
+May 24 23:51 : client: [13] opened from 127.0.0.1:49932
+May 24 23:51 : client: [14] opened from 127.0.0.1:49934
+May 24 23:51 : client: [15] opened from 127.0.0.1:49936
+May 24 23:51 : client: [12] closed
+May 24 23:51 : client: [15] closed
+May 24 23:51 : client: [13] closed
+May 24 23:51 : client: [14] closed
+May 24 23:51 : client: [16] opened from 127.0.0.1:49938
+May 24 23:51 : client: [17] opened from 127.0.0.1:49940
+May 24 23:51 : client: [18] opened from 127.0.0.1:49942
+May 24 23:51 : client: [19] opened from 127.0.0.1:49944
+May 24 23:52 : player: played "That’s Life - Frank sinatra.mp3"
+May 24 23:52 : client: [20] opened from 127.0.0.1:49950
+May 24 23:52 : client: [20] closed
+May 24 23:57 : player: played "The Only Exception - Paramore.mp3"
+May 25 00:00 : player: played "Cho Tôi Đi Theo - Ngọt.mp3"
+May 25 00:05 : player: played "My Baby Just Cares For Me - Nina Simone.mp3"
+May 25 00:09 : player: played "Do You Wanna Do Nothing With Me - Lawrence.mp3"
+May 25 00:12 : client: [21] opened from 127.0.0.1:50406
+May 25 00:12 : client: [21] closed
+May 25 00:49 : player: played "My Way - Frank Sinatra.mp3"
+May 25 11:27 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 11:27 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 11:27 : client: [0] opened from 127.0.0.1:60184
+May 25 11:27 : client: [1] opened from 127.0.0.1:60186
+May 25 11:27 : client: [2] opened from 127.0.0.1:60190
+May 25 11:27 : client: [3] opened from 127.0.0.1:60188
+May 25 11:27 : client: [4] opened from 127.0.0.1:60196
+May 25 11:27 : player: played "언젠가 알겠지 - 김수영.mp3"
+May 25 11:27 : client: [4] closed
+May 25 13:37 : client: [5] opened from 127.0.0.1:60336
+May 25 13:37 : client: [5] closed
+May 25 13:41 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 25 13:45 : player: played "언젠가 알겠지 - 김수영.mp3"
+May 25 13:50 : player: played "My Baby Just Cares For Me - Nina Simone.mp3"
+May 25 13:55 : player: played "Welcome To The Black Parade - My Chemical Romance.mp3"
+May 25 13:59 : client: [6] opened from 127.0.0.1:60558
+May 25 13:59 : client: [6] closed
+May 25 20:30 : client: [7] opened from 127.0.0.1:34044
+May 25 20:30 : client: [7] closed
+May 25 20:31 : player: played "That's What You Get - Paramore.mp3"
+May 25 20:34 : client: [8] opened from 127.0.0.1:34058
+May 25 20:34 : client: [8] closed
+May 25 20:34 : client: [9] opened from 127.0.0.1:34060
+May 25 20:34 : client: [9] closed
+May 25 20:35 : player: played "Small Bump - Ed Sheeran.mp3"
+May 25 20:39 : player: played "Kataomoi - Aimer.mp3"
+May 25 20:41 : client: [10] opened from 127.0.0.1:34090
+May 25 20:41 : client: [10] closed
+May 25 20:55 : client: [11] opened from 127.0.0.1:34192
+May 25 20:55 : client: [11] closed
+May 25 20:55 : player: played "I put a spell on you - Nina Simone.mp3"
+May 25 20:59 : player: played "The A team - Ed Sheeran.mp3"
+May 25 21:06 : player: played "Purple Rain - Prince.mp3"
+May 25 21:10 : client: [12] opened from 127.0.0.1:34564
+May 25 21:10 : client: [12] closed
+May 25 21:12 : player: played "Need You Now - Lady Antebellum.mp3"
+May 25 22:34 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:34 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 25 22:34 : client: [0] opened from 127.0.0.1:55402
+May 25 22:34 : client: [1] opened from 127.0.0.1:55404
+May 25 22:34 : client: [2] opened from 127.0.0.1:55406
+May 25 22:34 : client: [3] opened from 127.0.0.1:55408
+May 25 22:34 : client: [4] opened from 127.0.0.1:55410
+May 25 22:34 : player: played "Need You Now - Lady Antebellum.mp3"
+May 25 22:34 : client: [4] closed
+May 25 22:35 : client: [5] opened from 127.0.0.1:55480
+May 25 22:35 : client: [5] closed
+May 25 22:35 : client: [6] opened from 127.0.0.1:55484
+May 25 22:35 : client: [6] closed
+May 25 22:36 : client: [7] opened from 127.0.0.1:55486
+May 25 22:36 : client: [7] closed
+May 25 22:39 : client: [8] opened from 127.0.0.1:55530
+May 25 22:39 : client: [8] closed
+May 25 22:42 : player: played "Câu Hỏi - Trần Toàn.mp3"
+May 25 22:46 : player: played "Georgia On My Mind - Ray Charles.mp3"
+May 25 22:49 : player: played "R U Mine - Arctic Monkeys.mp3"
+May 25 22:52 : player: played "Attention - Pentatonix.mp3"
+May 25 22:56 : player: played "Shelter - Porter Robinson & Madeon.mp3"
+May 25 22:57 : client: [9] opened from 127.0.0.1:56182
+May 25 22:57 : client: [9] closed
+May 25 23:19 : client: [0] closed
+May 25 23:19 : client: [1] closed
+May 25 23:19 : client: [3] closed
+May 25 23:19 : client: [2] closed
+May 25 23:19 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 26 18:08 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 18:08 : exception: OutputThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+May 26 18:08 : client: [0] opened from 127.0.0.1:55984
+May 26 18:08 : client: [1] opened from 127.0.0.1:55986
+May 26 18:08 : client: [2] opened from 127.0.0.1:55994
+May 26 18:08 : client: [3] opened from 127.0.0.1:55982
+May 26 18:08 : client: [4] opened from 127.0.0.1:55998
+May 26 18:09 : client: [4] closed
+May 26 20:36 : client: [5] opened from 127.0.0.1:56480
+May 26 20:36 : client: [5] closed
+May 26 20:39 : player: played "Keep Holding On - Avril Lavigne.mp3"
+May 26 20:41 : client: [6] opened from 127.0.0.1:56582
+May 26 20:41 : client: [6] closed
+May 26 20:43 : client: [7] opened from 127.0.0.1:56584
+May 26 20:43 : client: [7] closed
+May 26 20:44 : player: played "If I Die Young - The Band Perry.mp3"
+May 26 20:48 : player: played "Câu Hỏi - Trần Toàn.mp3"
+May 26 20:52 : player: played "Can't Hold Us - Pentatonix.mp3"
+May 26 20:56 : player: played "The Only Exception - Paramore.mp3"
+May 26 20:56 : client: [8] opened from 127.0.0.1:56864
+May 26 20:56 : client: [8] closed
+May 26 20:59 : client: [9] opened from 127.0.0.1:56882
+May 26 20:59 : client: [9] closed
+May 26 21:03 : player: played "Sir Duke - Stevie Wonder.mp3"
+May 26 21:03 : client: [10] opened from 127.0.0.1:56924
+May 26 21:03 : client: [10] closed
+May 26 22:03 : client: [0] closed
+May 26 22:03 : client: [2] closed
+May 26 22:03 : client: [3] closed
+May 26 22:03 : client: [1] closed
+May 26 22:03 : player: played "It's A Man's Man's Man's World - James Brown.mp3"
